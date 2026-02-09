@@ -60,9 +60,9 @@ VS Code, PlatformIO, Git, Linux, Docker
 ---
 
 ### 📫 How to Reach Me
-- 📧 Email: *your-email@example.com*
-- 💼 LinkedIn: *your-linkedin-profile*
-- 🌐 Portfolio: *your-portfolio-link*
+- 📧 Email: *pattanaikbiswajit07@gamil.com*
+- 💼 LinkedIn: https://www.linkedin.com/in/biswajit-pattanaik-3586b82b3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- 
 
 ---
 
