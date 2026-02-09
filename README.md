@@ -1,70 +1,15 @@
-## Hi there 👋 I'm Biswajit Pattanaik
+# 💫 About Me:
+I am currently working on AI & ML powered vehicle black box systems, smart automotive control and diagnostics using CAN, LIN, and RTOS, and IoT dashboards with real-time cloud monitoring. I am actively looking to collaborate on embedded systems, IoT projects, AI-based automation, and open-source hardware–software integrations. I am seeking guidance in advanced machine learning, model optimization, embedded Linux, and automotive software development. At the same time, I am continuously learning machine learning, deep learning, embedded Linux on ARM, and AUTOSAR-based automotive software design. You can ask me about ESP32, Raspberry Pi, IoT sensors, embedded C/C++, Python, backend development, and cloud integration. I love turning everyday problems into smart systems using electronics and code 🚀.
 
-🚀 **Embedded Systems | IoT | AI/ML Enthusiast | Software Developer**
 
-I’m passionate about building **real-world tech solutions** that blend **hardware, software, and intelligence**.  
-From **ESP32 & Raspberry Pi projects** to **AI-powered vehicle systems and full-stack web apps**, I love turning ideas into working systems.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/biswajit-pattanaik-3586b82b3) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Biswajit pattanaik) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pattanaikbiswajit07@gmail.com) 
 
----
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat-square&logo=powershell&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat-square&logo=render&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat-square&logo=nodemon&logoColor=%BBDEAD) ![Node-RED](https://img.shields.io/badge/Node--RED-%238F0000.svg?style=flat-square&logo=node-red&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat-square&logo=opencv&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat-square&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=flat-square&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=flat-square&logo=ros&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=Apache%20Airflow&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat-square&logo=firebase&logoColor=ffcd34) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat-square&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=flat-square&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=%white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat-square&logo=Raspberry-Pi) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=#FF7139)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=BISWAJIT PATTANAIK&theme=darcula&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=BISWAJIT PATTANAIK&theme=darcula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BISWAJIT PATTANAIK&theme=darcula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔭 Currently Working On
-- 🧠 **AI & ML Powered Vehicle Black Box System**
-- 🚗 Smart Automotive Control & Diagnostics (CAN, LIN, RTOS)
-- 🌐 IoT dashboards with real-time cloud monitoring
-- 💻 Backend & Full-Stack development projects
-
----
-
-### 🌱 Currently Learning
-- Machine Learning & Deep Learning
-- Embedded Linux on ARM
-- AUTOSAR & Automotive Software Design
-- Data Structures & Algorithms (DSA)
-- System Design & Backend Architecture
-
----
-
-### 👯 Looking to Collaborate On
-- Embedded Systems & IoT projects
-- AI-based real-world applications
-- Automotive electronics & smart mobility
-- Open-source hardware/software integrations
-
----
-
-### 💬 Ask Me About
-- ESP32 / Arduino / Raspberry Pi
-- IoT sensors & cloud integration
-- Embedded C / C++ / Python
-- Web Development (HTML, CSS, JS, Node.js)
-- AI/ML for edge devices
-
----
-
-### 🛠️ Tech Stack
-**Languages:**  
-C, C++, Python, Java, JavaScript  
-
-**Embedded & IoT:**  
-ESP32, Arduino, STM32, Raspberry Pi, Sensors, CAN, UART, SPI, I2C  
-
-**AI & ML:**  
-TensorFlow, Keras, OpenCV, Scikit-learn  
-
-**Web & Backend:**  
-HTML, CSS, JavaScript, Node.js, Express, MySQL, MongoDB  
-
-**Tools:**  
-VS Code, PlatformIO, Git, Linux, Docker
-
----
-
-### 📫 How to Reach Me
-- 📧 Email: *pattanaikbiswajit07@gamil.com*
-- 💼 LinkedIn: https://www.linkedin.com/in/biswajit-pattanaik-3586b82b3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-- 
-
----
-
-### ⚡ Fun Fact
-I enjoy combining **electronics + code + intelligence** to build systems that think, sense, and act 🚀
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
