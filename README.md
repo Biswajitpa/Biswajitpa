@@ -12,4 +12,10 @@ I am currently working on AI & ML powered vehicle black box systems, smart autom
 ![](https://nirzak-streak-stats.vercel.app/?user=BISWAJIT PATTANAIK&theme=darcula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BISWAJIT PATTANAIK&theme=darcula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=BISWAJIT PATTANAIK&icon=2&color=1)](https://visitcount.itsvg.in)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
