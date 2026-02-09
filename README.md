@@ -1,7 +1,5 @@
 # 💫 About Me:
-I am currently working on AI & ML powered vehicle black box systems, smart automotive control and diagnostics using CAN, LIN, and RTOS, and IoT dashboards with real-time cloud monitoring. I am actively looking to collaborate on embedded systems, IoT projects, AI-based automation, and open-source hardware–software integrations. I am seeking guidance in advanced machine learning, model optimization, embedded Linux, and automotive software development. At the same time, I am continuously learning machine learning, deep learning, embedded Linux on ARM, and AUTOSAR-based automotive software design. You can ask me about ESP32, Raspberry Pi, IoT sensors, embedded C/C++, Python, backend development, and cloud integration. I love turning everyday problems into smart systems using electronics and code 🚀.
-
-
+I am an Embedded Systems and Software Developer with experience in IoT solutions, backend development, and intelligent systems. I work with ESP32, Raspberry Pi, sensors, and cloud platforms, and build software applications using Python, Java, JavaScript, Node.js, and databases like MySQL and MongoDB. I have a strong interest in AI/ML and smart automation, and I enjoy applying technology to solve real-world problems.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/biswajit-pattanaik-3586b82b3) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Biswajit pattanaik) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pattanaikbiswajit07@gmail.com) 
 
