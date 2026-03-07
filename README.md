@@ -1,13 +1,12 @@
 # 👋 Hi, I'm Biswajit Pattanaik
 
-🚀 Embedded Systems Developer | IoT Engineer | Backend Developer
+🚀🚀 Embedded Systems Developer | IoT Engineer | Backend Developer
+Strong in DSA (C++, Java, Python), AI/ML, Cloud Computing, Full-Stack Web Development, and Data Modeling
+
 
 # 💫 About Me
-I am an **Embedded Systems and Software Developer** with experience in **IoT solutions, backend development, and intelligent systems**.  
+I am an Embedded Systems and Software Developer with experience in IoT solutions, backend development, and intelligent systems. I work with ESP32, Raspberry Pi, sensors, and cloud platforms, and build software applications using Python, Java, JavaScript, and Node.js, along with databases such as MySQL and MongoDB. I have strong interests in Artificial Intelligence (AI), Data Structures and Algorithms (DSA), Data Modeling, automation, and embedded technologies, and I enjoy applying technology to solve real-world problems.
 
-I work with **ESP32, Raspberry Pi, sensors, and cloud platforms**, and build software applications using **Python, Java, JavaScript, Node.js**, and databases like **MySQL and MongoDB**.  
-
-I have a strong interest in **AI/ML, automation, and embedded technologies**, and I enjoy applying technology to solve **real-world problems**.
 
 ---
 
