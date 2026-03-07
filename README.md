@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Biswajit Pattanaik
 
 🚀🚀 Embedded Systems Developer | IoT Engineer | Backend Developer
-Strong in DSA (C++, Java, Python), AI/ML, Cloud Computing, Full-Stack Web Development, and Data Modeling
+Strong in DSA (C++), AI/ML, Cloud Computing, Full-Stack Web Development, and Data Modeling
 
 
 # 💫 About Me
