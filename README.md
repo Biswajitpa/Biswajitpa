@@ -51,10 +51,6 @@ I have a strong interest in **AI/ML, automation, and embedded technologies**, an
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Biswajitpa&layout=compact&theme=radical)
 
----
-
-## 🔥 GitHub Streak
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Biswajitpa&theme=radical)
 
 ---
