@@ -46,7 +46,7 @@ I am an Embedded Systems and Software Developer with experience in IoT solutions
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Biswajitpa&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Biswajitpa&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Biswajitpa&layout=compact&theme=tokyonight)
 
