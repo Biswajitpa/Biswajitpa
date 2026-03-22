@@ -8,9 +8,9 @@
   <img src="https://img.shields.io/badge/Embedded-Systems-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/IoT-Projects-green?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/DSA-C%2B%2B-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MERN-FullStack-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MERN-Stack-black?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Realtime-Socket.IO-success?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Cloud-Computing-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cloud-Computing-purple?style=for-the-badge"/>
 </p>
 
 🚀🚀 Embedded Systems Developer | IoT Engineer | Backend Developer
