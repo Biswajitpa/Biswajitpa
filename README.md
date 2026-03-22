@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Biswajit Pattanaik
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=00C853&center=true&vCenter=true&width=900&lines=Biswajit+Pattanaik;Embedded+Systems+%7C+IoT+Engineer;Full+Stack+%7C+DSA+Developer;Building+Real-Time+Smart+Systems" />
-</p>
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&color=00C853&center=true&vCenter=true&width=600&lines=Biswajit+Pattanaik;Embedded+Systems+%7C+IoT+Engineer;Backend+Developer+%7C+DSA+Enthusiast" />
+</p>>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Embedded-Systems-blue?style=for-the-badge"/>
