@@ -56,13 +56,7 @@ I am an Embedded Systems and Software Developer with experience in IoT solutions
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
 
 ---
-<p align="center">
-  <img src="https://img.shields.io/badge/DSA-MinHeap%20%7C%20HashMap-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MERN-Stack-green?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Realtime-Socket.IO-black?style=for-the-badge&logo=socketdotio"/>
-  <img src="https://img.shields.io/badge/Payment-Razorpay-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Notifications-Nodemailer%20%7C%20Twilio-red?style=for-the-badge"/>
-</p>  
+
 
 
 ## 📊 GitHub Stats
