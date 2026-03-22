@@ -13,8 +13,9 @@
   <img src="https://img.shields.io/badge/Cloud-Computing-purple?style=for-the-badge"/>
 </p>
 
-🚀🚀 Embedded Systems Developer | IoT Engineer | Backend Developer
-Strong in DSA (C++), AI/ML, Cloud Computing, Full-Stack Web Development, and Data Modeling
+🚀 Embedded Systems Developer | IoT Engineer | Backend Developer  
+💡 Skilled in DSA (C++), AI/ML, Cloud Computing, and Full-Stack Development  
+📡 Building real-time, scalable, and intelligent systems
 
 
 # 💫 About Me
