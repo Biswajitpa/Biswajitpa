@@ -1,9 +1,8 @@
 # 👋 Hi, I'm Biswajit Pattanaik
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C853,100:000000&height=180&section=header&text=Biswajit%20Pattanaik&fontSize=35&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C853,100:000000&height=200&section=header&text=Biswajit%20Pattanaik&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Embedded%20Systems%20%7C%20IoT%20%7C%20Backend%20Developer&descAlignY=55&descAlign=50"/>
 </p>
-<p align="center">
   <img src="https://img.shields.io/badge/Embedded-Systems-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/IoT-Projects-green?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/DSA-C%2B%2B-orange?style=for-the-badge"/>
