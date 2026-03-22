@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=26&color=00C853&center=true&vCenter=true&width=600&lines=Biswajit+Pattanaik;Embedded+Systems+%7C+IoT+Engineer;Backend+Developer+%7C+DSA+Enthusiast" />
-</p>>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Embedded-Systems-blue?style=for-the-badge"/>
