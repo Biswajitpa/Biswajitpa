@@ -57,6 +57,12 @@ I am an Embedded Systems and Software Developer with experience in IoT solutions
 
 ---
 
+## 🔭 Current Focus
+
+- 🚗 Automotive Embedded Systems (CAN, AUTOSAR)
+- 📡 IoT + Cloud Integration (ESP32 + Raspberry Pi)
+- 🤖 AI/ML in Embedded Systems
+- 💻 Backend Systems (Node.js + APIs)
 
 
 ## 📊 GitHub Stats
