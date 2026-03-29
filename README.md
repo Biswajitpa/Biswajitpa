@@ -18,9 +18,9 @@
 📡 Building real-time, scalable, and intelligent systems  
 
 🎯 Open to Internships & Full-Time Opportunities | Available for Immediate Roles
+
 # 💫 About Me
 I am an Embedded Systems and Software Developer with experience in IoT solutions, backend development, and intelligent systems. I work with ESP32, Raspberry Pi, sensors, and cloud platforms, and build software applications using Python, Java, JavaScript, and Node.js, along with databases such as MySQL and MongoDB. I have strong interests in Artificial Intelligence (AI), Data Structures and Algorithms (DSA), Data Modeling, automation, and embedded technologies, and I enjoy applying technology to solve real-world problems.
-
 
 ---
 
@@ -65,16 +65,19 @@ I am an Embedded Systems and Software Developer with experience in IoT solutions
 - 🤖 AI/ML in Embedded Systems
 - 💻 Backend Systems (Node.js + APIs)
 
+---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Biswajitpa&show_icons=true&theme=tokyonight&cache_seconds=1800)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Biswajitpa&show_icons=true&theme=tokyonight&cache_seconds=86400)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Biswajitpa&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Biswajitpa&layout=compact&theme=tokyonight&cache_seconds=86400)
+
+---
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Biswajitpa&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=Biswajitpa&theme=tokyonight&cache_seconds=86400)
 
 ---
 
