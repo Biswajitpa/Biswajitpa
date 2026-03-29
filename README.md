@@ -69,14 +69,14 @@ I am an Embedded Systems and Software Developer with experience in IoT solutions
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Biswajitpa&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Biswajitpa&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Biswajitp&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Biswajitpa&layout=compact&theme=tokyonight)
+
+---
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Biswajitpa&theme=tokyonight&cache_seconds=86400)
-
----
+![GitHub Streak](https://streak-stats.demolab.com?user=Biswajitpa&theme=tokyonight)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Biswajitpa&color=blue)
