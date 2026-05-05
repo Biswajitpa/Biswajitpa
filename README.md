@@ -11,12 +11,7 @@
   <img src="https://img.shields.io/badge/MERN-Stack-black?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Realtime-Socket.IO-success?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Cloud-Computing-purple?style=for-the-badge"/>
-</p>
-## 🏆 Achievements
 
-![IEEE Winner](https://img.shields.io/badge/IEEE-Winner-blue?style=for-the-badge)
-
-🥇 **Winner – Win Tech Spark 2.0 (IEEE)**
 🚀 Embedded Systems Developer | IoT Engineer | Backend Developer  
 💡 Expertise in DSA (C++), AI/ML, Cloud Computing, and Full-Stack Development  
 📡 Building real-time, scalable, and intelligent systems  
