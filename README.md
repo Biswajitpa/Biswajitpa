@@ -11,6 +11,10 @@
   <img src="https://img.shields.io/badge/MERN-Stack-black?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Realtime-Socket.IO-success?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Cloud-Computing-purple?style=for-the-badge"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?lines=IEEE+Tech+Spark+2.0+Winner;AI+Vehicle+Black+Box+Developer&center=true&width=600&height=50&color=0A66C2&size=22"/>
+</p>
+
 
 🚀 Embedded Systems Developer | IoT Engineer | Backend Developer  
 💡 Expertise in DSA (C++), AI/ML, Cloud Computing, and Full-Stack Development  
