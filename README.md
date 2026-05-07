@@ -11,16 +11,21 @@
   <img src="https://img.shields.io/badge/MERN-Stack-black?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Realtime-Socket.IO-success?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Cloud-Computing-purple?style=for-the-badge"/>
+</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?lines=IEEE+Tech+Spark+2.0+Winner;AI+Vehicle+Black+Box+Developer&center=true&width=600&height=50&color=0A66C2&size=22"/>
 </p>
 
+---
 
 🚀 Embedded Systems Developer | IoT Engineer | Backend Developer  
 💡 Expertise in DSA (C++), AI/ML, Cloud Computing, and Full-Stack Development  
 📡 Building real-time, scalable, and intelligent systems  
 
 🎯 Open to Internships & Full-Time Opportunities | Available for Immediate Roles
+
+---
 
 # 💫 About Me
 I am an Embedded Systems and Software Developer with experience in IoT solutions, backend development, and intelligent systems. I work with ESP32, Raspberry Pi, sensors, and cloud platforms, and build software applications using Python, Java, JavaScript, and Node.js, along with databases such as MySQL and MongoDB. I have strong interests in Artificial Intelligence (AI), Data Structures and Algorithms (DSA), Data Modeling, automation, and embedded technologies, and I enjoy applying technology to solve real-world problems.
@@ -62,7 +67,6 @@ I am an Embedded Systems and Software Developer with experience in IoT solutions
 ---
 
 ## 🔭 Current Focus
-
 - 🚗 Automotive Embedded Systems (CAN, AUTOSAR)
 - 📡 IoT + Cloud Integration (ESP32 + Raspberry Pi)
 - 🤖 AI/ML in Embedded Systems
@@ -71,7 +75,6 @@ I am an Embedded Systems and Software Developer with experience in IoT solutions
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Biswajitpa&show_icons=true&theme=tokyonight" />
 </p>
@@ -84,29 +87,26 @@ I am an Embedded Systems and Software Developer with experience in IoT solutions
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Biswajitpa&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Biswajitpa&theme=tokyonight&utcOffset=5.5" />
 </p>
+
 ---
 
 ## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Biswajitpa&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Biswajitpa&theme=tokyonight" />
+</p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Biswajitpa&color=blue)
-
 
 ---
 
 ## 📈 Advanced GitHub Analytics
 
-
-
-
+<p align="center">
   <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Biswajitpa&theme=tokyonight" />
-
   <img height="180" src="https://github-profile-trophy.vercel.app/?username=Biswajitpa&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
 
-
-
-</div>
+---
 
 ## ⚡ Contribution Graph
 
