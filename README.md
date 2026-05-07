@@ -100,6 +100,10 @@ I am an Embedded Systems and Software Developer with experience in IoT solutions
 
   <img height="180" src="https://github-profile-trophy.vercel.app/?username=Biswajitpa&theme=tokyonight&no-frame=true&row=1&column=7" />
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Biswajitpa&repo=YOUR_REPO_NAME&theme=tokyonight" />
+</p>
+
 </div>
 
 ## ⚡ Contribution Graph
