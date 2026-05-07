@@ -92,19 +92,15 @@ I am an Embedded Systems and Software Developer with experience in IoT solutions
 
 ## 📈 Advanced GitHub Analytics
 
+<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
 
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Biswajitpa&layout=compact&theme=tokyonight" />
 
-<div align="center">
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Biswajitpa&theme=tokyonight" />
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Biswajitpa&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Biswajitpa&theme=tokyonight)
-
-<img src="https://github-profile-trophy.vercel.app/?username=Biswajitpa&theme=tokyonight&no-frame=true&row=1&column=7"/>
+  <img height="180" src="https://github-profile-trophy.vercel.app/?username=Biswajitpa&theme=tokyonight&no-frame=true&row=1&column=7" />
 
 </div>
-
----
 
 ## ⚡ Contribution Graph
 
