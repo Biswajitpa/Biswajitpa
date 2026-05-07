@@ -105,6 +105,7 @@ I am an Embedded Systems and Software Developer with experience in IoT solutions
   <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Biswajitpa&theme=tokyonight" />
   <img height="180" src="https://github-profile-trophy.vercel.app/?username=Biswajitpa&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Biswajitpa&theme=tokyonight" />
 </p>
@@ -118,7 +119,7 @@ I am an Embedded Systems and Software Developer with experience in IoT solutions
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Biswajitpa&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Biswajitpa&theme=tokyonight" />
 </p>
----
+
 
 ## ⚡ Contribution Graph
 
