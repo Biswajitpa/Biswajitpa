@@ -117,4 +117,3 @@ I am an Embedded Systems and Software Developer with experience in IoT solutions
 </p>
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=Biswajitpa&show_icons=true" />
