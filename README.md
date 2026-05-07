@@ -123,6 +123,7 @@ I am an Embedded Systems and Software Developer with experience in IoT solutions
     alt="Most Commit Language" 
   />
 </p>
+
 ---
 
 ## ⚡ Contribution Graph
