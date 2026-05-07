@@ -93,36 +93,17 @@ I am an Embedded Systems and Software Developer with experience in IoT solutions
 ## 📈 Advanced GitHub Analytics
 
 
-<p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Biswajitpa&theme=tokyonight" 
-    alt="Profile Details" 
-  />
-</p>
+<div align="center">
 
-<p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Biswajitpa&theme=tokyonight" 
-    alt="GitHub Stats" 
-  />
-  
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Biswajitpa&theme=tokyonight&utcOffset=5.5" 
-    alt="Productive Time" 
-  />
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Biswajitpa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-<p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Biswajitpa&theme=tokyonight" 
-    alt="Repos Per Language" 
-  />
-  
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Biswajitpa&theme=tokyonight" 
-    alt="Most Commit Language" 
-  />
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biswajitpa&layout=compact&langs_count=8&theme=tokyonight"/>
+
+<img src="https://streak-stats.demolab.com?user=Biswajitpa&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Biswajitpa&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</div>
 
 ---
 
