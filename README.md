@@ -87,8 +87,9 @@ I am an Embedded Systems and Software Developer with experience in IoT solutions
 ![GitHub Streak](https://streak-stats.demolab.com?user=Biswajitpa&theme=tokyonight)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Biswajitpa&color=blue)
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com?user=Biswajitpa&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Biswajitpa&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
