@@ -87,17 +87,6 @@ I am an Embedded Systems and Software Developer with experience in IoT solutions
 ![GitHub Streak](https://streak-stats.demolab.com?user=Biswajitpa&theme=tokyonight)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Biswajitpa&color=blue)
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Biswajitpa&show_icons=true&theme=tokyonight)
-
-## 🔥 Streak
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Biswajitpa&theme=tokyonight)
-
-## 📈 Activity Graph
-
-![Activity](https://github-readme-activity-graph.vercel.app/graph?username=Biswajitpa&theme=tokyo-night)
 
 ---
 
