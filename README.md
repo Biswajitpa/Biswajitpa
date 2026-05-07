@@ -93,8 +93,9 @@ I am an Embedded Systems and Software Developer with experience in IoT solutions
 ## 📈 Advanced GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biswajitpa&layout=compact&theme=default" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Biswajitpa&layout=compact&theme=tokyonight" />
 </p>
+
 <div align="center">
 
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Biswajitpa&layout=compact&theme=tokyonight)
