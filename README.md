@@ -88,6 +88,10 @@ I am an Embedded Systems and Software Developer with experience in IoT solutions
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Biswajitpa&color=blue)
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Biswajitpa&theme=tokyonight&hide_border=true" />
+</p>
+
 ---
 
 ## 📈 Advanced GitHub Analytics
