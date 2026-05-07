@@ -92,9 +92,7 @@ I am an Embedded Systems and Software Developer with experience in IoT solutions
 
 ## 📈 Advanced GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Biswajitpa&theme=tokyo-night" />
-</p>
+
 
 <div align="center">
 
