@@ -117,16 +117,10 @@ I am an Embedded Systems and Software Developer with experience in IoT solutions
 </p>
 
 
-## 📊 GitHub Analytics
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Biswajitpa&show_icons=true&theme=tokyonight" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Biswajitpa&show_icons=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biswajitpa&layout=compact" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biswajitpa&layout=compact&theme=tokyonight" />
-</p>
-
 
 
 
