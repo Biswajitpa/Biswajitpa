@@ -121,7 +121,7 @@ I am an Embedded Systems and Software Developer with experience in IoT solutions
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Biswajitpa&theme=tokyonight" />
 </p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Biswajitpa&layout=pie&langs_count=6&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Biswajitpa&layout=pie&theme=radical)
 
 
 ## ⚡ Contribution Graph
