@@ -88,7 +88,7 @@ I am an Embedded Systems and Software Developer with experience in IoT solutions
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Biswajitpa&theme=tokyonight&utcOffset=5.5" />
 </p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
 ---
 
 ## 🔥 GitHub Streak
