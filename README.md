@@ -17,7 +17,6 @@
   IEEE Tech Spark 2.0 Winner • AI Vehicle Black Box Developer
 </p>
 
-
 ---
 
 🚀 Embedded Systems Developer | IoT Engineer | Backend Developer  
