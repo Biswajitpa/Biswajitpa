@@ -83,10 +83,6 @@ I am an Embedded Systems and Software Developer with experience in IoT solutions
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Biswajitpa&layout=compact&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Biswajitpa&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Biswajitpa&theme=tokyonight&utcOffset=5.5" />
-</p>
 
 
 ---
