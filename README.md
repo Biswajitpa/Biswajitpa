@@ -14,8 +14,10 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?lines=IEEE+Tech+Spark+2.0+Winner;AI+Vehicle+Black+Box+Developer&center=true&width=600&height=50&color=0A66C2&size=22"/>
+  <b>IEEE Tech Spark 2.0 Winner</b><br>
+  <b>AI Vehicle Black Box Developer</b>
 </p>
+
 
 ---
 
