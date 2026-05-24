@@ -28,7 +28,8 @@
 ---
 
 # 💫 About Me
-I am an Embedded Systems and Software Developer with experience in IoT solutions, backend development, and intelligent systems. I work with ESP32, Raspberry Pi, sensors, and cloud platforms, and build software applications using Python, Java, JavaScript, and Node.js, along with databases such as MySQL and MongoDB. I have strong interests in Artificial Intelligence (AI), Data Structures and Algorithms (DSA), Data Modeling, automation, and embedded technologies, and I enjoy applying technology to solve real-world problems.
+
+Results-driven Embedded Systems and Software Developer with hands-on expertise spanning the full technology stack — from low-level hardware interfacing and sensor integration to cloud platform deployment and AI-powered application development. Proficient in designing and delivering end-to-end IoT solutions that connect physical devices to scalable, data-driven backends. Demonstrates a strong command of algorithms and data structures, enabling the delivery of optimized, production-grade software across embedded, web, and enterprise environments. Known for a systematic approach to problem-solving and a passion for applying cutting-edge technology to automate processes and drive measurable impact.
 
 ---
 
