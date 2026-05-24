@@ -91,14 +91,7 @@ I am an Embedded Systems and Software Developer with experience in IoT solutions
 
 ---
 
-## 🔥 GitHub Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Biswajitpa&theme=tokyonight" />
-</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Biswajitpa&color=blue)
-
----
 
 ## 📈 Advanced GitHub Analytics
 
