@@ -22,7 +22,6 @@
 🚀 Embedded Systems Developer | IoT Engineer | Backend Developer  
 💡 Expertise in DSA (C++), AI/ML, Cloud Computing, and Full-Stack Development  
 📡 Building real-time, scalable, and intelligent systems  
-
 🎯 Open to Internships & Full-Time Opportunities | Available for Immediate Roles
 
 ---
