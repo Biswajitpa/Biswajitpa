@@ -79,13 +79,8 @@ Results-driven Embedded Systems and Software Developer with hands-on expertise s
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Biswajitpa&show_icons=true&theme=tokyonight" width="48%"/>
- <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Biswajitpa&layout=compact&theme=tokyonight&count_private=true&hide=html,css" width="48%"/>
 </p>
 
-
-
-
----
 
 
 
