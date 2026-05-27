@@ -104,24 +104,6 @@ Results-driven Embedded Systems and Software Developer with hands-on expertise s
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Biswajitpa&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://quickchart.io/chart?c={
-type:'pie',
-data:{
-labels:['Python','Jupyter Notebook'],
-datasets:[{
-data:[75,25],
-backgroundColor:['#3572A5','#F37626']
-}]
-},
-options:{
-plugins:{
-legend:{position:'bottom'}
-}
-}
-}" width="400"/>
-</p>
-
 
 
 ## ⚡ Contribution Graph
