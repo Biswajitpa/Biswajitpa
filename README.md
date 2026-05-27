@@ -13,6 +13,7 @@
   <img src="https://img.shields.io/badge/Cloud-Computing-purple?style=for-the-badge"/>
 </p>
 
+
 <p align="center">
   🏆 IEEE Tech Spark 2.0 Winner<br>
   🚗 AI Vehicle Black Box Developer
@@ -64,6 +65,21 @@ Results-driven Embedded Systems and Software Developer with hands-on expertise s
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
+
+
+<h3 align="left">Tools, Cloud & DevOps</h3>
+<p align="left">
+  <a href="https://git-scm.com" target="_blank"><img src="https://skillicons.dev/icons?i=git" width="40"/></a>
+  <a href="https://www.docker.com" target="_blank"><img src="https://skillicons.dev/icons?i=docker" width="40"/></a>
+  <a href="https://kubernetes.io" target="_blank"><img src="https://skillicons.dev/icons?i=kubernetes" width="40"/></a>
+  <a href="https://aws.amazon.com" target="_blank"><img src="https://skillicons.dev/icons?i=aws" width="40"/></a>
+  <a href="https://cloud.google.com" target="_blank"><img src="https://skillicons.dev/icons?i=gcp" width="40"/></a>
+  <a href="https://www.jenkins.io" target="_blank"><img src="https://skillicons.dev/icons?i=jenkins" width="40"/></a>
+  <a href="https://www.terraform.io" target="_blank"><img src="https://skillicons.dev/icons?i=terraform" width="40"/></a>
+  <a href="https://figma.com" target="_blank"><img src="https://skillicons.dev/icons?i=figma" width="40"/></a>
+  <a href="https://www.postman.com" target="_blank"><img src="https://skillicons.dev/icons?i=postman" width="40"/></a>
+  <a href="https://www.npmjs.com" target="_blank"><img src="https://skillicons.dev/icons?i=npm" width="40"/></a>
+</p>
 
 ---
 
