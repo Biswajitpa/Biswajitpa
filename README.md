@@ -3,7 +3,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C853,100:000000&height=200&section=header&text=Biswajit%20Pattanaik&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Embedded%20Systems%20%7C%20IoT%20Engineer%20%7C%20Full%20Stack%20MERN%20Developer%20%7C%20Backend%20Developer&descAlignY=55&descAlign=50"/>
 </p>
-<h3 align="left">Languages, Frameworks & Databases</h3>
 
 
 <p align="center">
@@ -68,6 +67,7 @@ Results-driven Embedded Systems and Software Developer with hands-on expertise s
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
 
+<h3 align="left">Languages, Frameworks & Databases</h3>
 <p align="left">
   <a href="https://www.java.com" target="_blank"><img src="https://skillicons.dev/icons?i=java" width="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" width="40"/></a>
