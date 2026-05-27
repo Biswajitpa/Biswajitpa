@@ -4,25 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C853,100:000000&height=200&section=header&text=Biswajit%20Pattanaik&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Embedded%20Systems%20%7C%20IoT%20Engineer%20%7C%20Full%20Stack%20MERN%20Developer%20%7C%20Backend%20Developer&descAlignY=55&descAlign=50"/>
 </p>
 <h3 align="left">Languages, Frameworks & Databases</h3>
-<p align="left">
-  <a href="https://www.java.com" target="_blank"><img src="https://skillicons.dev/icons?i=java" width="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" width="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" width="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=javascript" width="40"/></a>
-  <a href="https://react.dev" target="_blank"><img src="https://skillicons.dev/icons?i=react" width="40"/></a>
-  <a href="https://nextjs.org" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs" width="40"/></a>
-  <a href="https://redux.js.org" target="_blank"><img src="https://skillicons.dev/icons?i=redux" width="40"/></a>
-  <a href="https://angularjs.org" target="_blank"><img src="https://skillicons.dev/icons?i=angular" width="40"/></a>
-  <a href="https://threejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=threejs" width="40"/></a>
-  <a href="https://tailwindcss.com" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" width="40"/></a>
-  <a href="https://sass-lang.com" target="_blank"><img src="https://skillicons.dev/icons?i=sass" width="40"/></a>
-  <a href="https://getbootstrap.com" target="_blank"><img src="https://skillicons.dev/icons?i=bootstrap" width="40"/></a>
-  <a href="https://mui.com" target="_blank"><img src="https://skillicons.dev/icons?i=materialui" width="40"/></a>
-  <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" width="40"/></a>
-  <a href="https://expressjs.com" target="_blank"><img src="https://skillicons.dev/icons?i=express" width="40"/></a>
-  <a href="https://www.mongodb.com" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" width="40"/></a>
-  <a href="https://www.mysql.com" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" width="40"/></a>
-</p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Embedded-Systems-blue?style=for-the-badge"/>
@@ -86,6 +68,25 @@ Results-driven Embedded Systems and Software Developer with hands-on expertise s
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
 
+<p align="left">
+  <a href="https://www.java.com" target="_blank"><img src="https://skillicons.dev/icons?i=java" width="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" width="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" width="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=javascript" width="40"/></a>
+  <a href="https://react.dev" target="_blank"><img src="https://skillicons.dev/icons?i=react" width="40"/></a>
+  <a href="https://nextjs.org" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs" width="40"/></a>
+  <a href="https://redux.js.org" target="_blank"><img src="https://skillicons.dev/icons?i=redux" width="40"/></a>
+  <a href="https://angularjs.org" target="_blank"><img src="https://skillicons.dev/icons?i=angular" width="40"/></a>
+  <a href="https://threejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=threejs" width="40"/></a>
+  <a href="https://tailwindcss.com" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" width="40"/></a>
+  <a href="https://sass-lang.com" target="_blank"><img src="https://skillicons.dev/icons?i=sass" width="40"/></a>
+  <a href="https://getbootstrap.com" target="_blank"><img src="https://skillicons.dev/icons?i=bootstrap" width="40"/></a>
+  <a href="https://mui.com" target="_blank"><img src="https://skillicons.dev/icons?i=materialui" width="40"/></a>
+  <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" width="40"/></a>
+  <a href="https://expressjs.com" target="_blank"><img src="https://skillicons.dev/icons?i=express" width="40"/></a>
+  <a href="https://www.mongodb.com" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" width="40"/></a>
+  <a href="https://www.mysql.com" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" width="40"/></a>
+</p>
 
 <h3 align="left">Tools, Cloud & DevOps</h3>
 <p align="left">
