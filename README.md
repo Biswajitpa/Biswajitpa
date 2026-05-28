@@ -128,13 +128,20 @@ Results-driven Embedded Systems and Software Developer with hands-on expertise s
   <img height="180" src="https://github-profile-trophy.vercel.app/?username=Biswajitpa&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Biswajitpa&show_icons=true&theme=tokyonight"
+    alt="GitHub Stats"
+  />
+</p>
 
 <p align="center">
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Biswajitpa&theme=tokyonight"
-    alt="Profile Summary"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Biswajitpa&theme=tokyonight"
+    alt="GitHub Streak"
   />
 </p>
+
 
 
 <p align="center">
