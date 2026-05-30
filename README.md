@@ -15,8 +15,10 @@
 </p>
 
 
-<h2 align="center"><span style="color:#FF4D4D;">🚀 IEEE Tech Spark 2.0 Winner</span></h2>
-<h3 align="center"><span style="color:#4DFFDB;">🚗 AI Vehicle Black Box Developer</span></h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&center=true&vCenter=true&width=900&color=00F7FF&lines=IEEE+Tech+Spark+2.0+Winner;🚗+AI+Vehicle+Black+Box+Developer" />
+</p>
+
 
 ---
 
