@@ -129,6 +129,11 @@ Results-driven Embedded Systems and Software Developer with hands-on expertise s
 </p>
 
 <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Biswajitpa&theme=darkhub&no-frame=true&row=1" />
+</p>
+
+
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Biswajitpa&theme=tokyonight" />
 </p>
 
