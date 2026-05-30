@@ -128,10 +128,6 @@ Results-driven Embedded Systems and Software Developer with hands-on expertise s
   <img height="180" src="https://github-profile-trophy.vercel.app/?username=Biswajitpa&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Biswajitpa&no-frame=true&margin-w=15&theme=tokyonight" />
-</p>
-
 
 
 <p align="center">
