@@ -30,8 +30,11 @@
 ---
 
 # 💫 About Me
+Results-driven Embedded Systems and Software Developer with hands-on expertise spanning the full technology stack — from low-level hardware interfacing and sensor integration to cloud platform deployment and AI-powered application development. Adept at architecting and delivering end-to-end IoT solutions that seamlessly connect physical devices to scalable, data-driven backends, enabling real-time intelligence at the edge and in the cloud.
 
-Results-driven Embedded Systems and Software Developer with hands-on expertise spanning the full technology stack — from low-level hardware interfacing and sensor integration to cloud platform deployment and AI-powered application development. Proficient in designing and delivering end-to-end IoT solutions that connect physical devices to scalable, data-driven backends. Demonstrates a strong command of algorithms and data structures, enabling the delivery of optimized, production-grade software across embedded, web, and enterprise environments. Known for a systematic approach to problem-solving and a passion for applying cutting-edge technology to automate processes and drive measurable impact.
+Demonstrates strong command of algorithms and data structures, consistently delivering optimized, production-grade software across embedded, web, and enterprise environments. Recognized for a systematic, first-principles approach to problem-solving and a passion for applying emerging technologies to automate complex processes, reduce operational overhead, and drive measurable business impact.
+
+A collaborative, execution-focused engineer with a track record of translating technical complexity into business value — equally fluent in C/C++ at the firmware layer and modern cloud-native stacks at the application layer.
 
 ---
 
