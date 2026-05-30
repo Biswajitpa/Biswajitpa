@@ -16,9 +16,8 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&center=true&vCenter=true&width=800&lines=IEEE+Tech+Spark+2.0+Winner;AI+Vehicle+Black+Box+Developer" />
+  <img src="https://readme-typing-svg.demolab.com?size=28&center=true&vCenter=true&width=800&lines=IEEE+Tech+Spark+2.0+Winner;AI+Vehicle+Black+Box+Developer" />
 </p>
-
 
 ---
 
