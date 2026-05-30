@@ -15,10 +15,8 @@
 </p>
 
 
-<p align="center">
-  🏆 IEEE Tech Spark 2.0 Winner<br>
-  🚗 AI Vehicle Black Box Developer
-</p>
+<h2 align="center"><span style="color:#00C2FF;">🚀 IEEE Tech Spark 2.0 Winner</span></h2>
+<h3 align="center"><span style="color:#00E676;">🚗 AI Vehicle Black Box Developer</span></h3>
 
 ---
 
