@@ -16,8 +16,9 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?size=28&center=true&vCenter=true&width=800&lines=IEEE+Tech+Spark+2.0+Winner;AI+Vehicle+Black+Box+Developer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1200&color=00F7FF&center=true&vCenter=true&width=900&lines=IEEE+Tech+Spark+2.0+Winner;AI+Vehicle+Black+Box+Developer" />
 </p>
+
 
 ---
 
