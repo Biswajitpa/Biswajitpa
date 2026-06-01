@@ -129,10 +129,6 @@ Results-driven Embedded Systems and Software Developer with strong expertise acr
 
 
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Biswajitpa&theme=tokyonight" />
-</p>
-
 
 
 <p align="center">
