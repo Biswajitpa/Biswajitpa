@@ -122,24 +122,48 @@ Results-driven Embedded Systems and Software Developer with strong expertise acr
 
 ## 📈 Advanced GitHub Analytics
 
+<!-- 💻 Interactive Typing Header -->
 <p align="center">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Biswajitpa&theme=tokyonight" />
-  <img height="180" src="https://github-profile-trophy.vercel.app/?username=Biswajitpa&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7aa2f7&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Full+Stack+Developer;Building+cool+things+daily...🎨" alt="Typing SVG" />
 </p>
 
+## 📈 Advanced GitHub Analytics
 
-
-
-
+<!-- 🏆 Streaks & Trophies -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Biswajitpa&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Biswajitpa&theme=tokyonight&utcOffset=5.5" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Biswajitpa&theme=tokyonight" alt="Biswajitpa's Streak Stats" />
+  </a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img height="180" src="https://github-profile-trophy.vercel.app/?username=Biswajitpa&theme=tokyonight&no-frame=true&row=1&column=7" alt="Biswajitpa's Trophies" />
+  </a>
 </p>
 
+<!-- 📊 Core Repo & Productivity Stats -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Biswajitpa&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Biswajitpa&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Biswajitpa&show_icons=true&theme=tokyonight&count_private=true" alt="Biswajitpa's Global GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Biswajitpa&theme=tokyonight&utcOffset=5.5" alt=" Biswajitpa's Productive Time" />
 </p>
+
+<!-- 🗂️ Language Metrics -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Biswajitpa&theme=tokyonight" alt="Repos Per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Biswajitpa&theme=tokyonight" alt="Most Committed Language" />
+</p>
+
+<!-- 🛠️ Tech Stack Badges (Customize these to fit what you actually use!) -->
+<### 🛠️ Core Tech Stack>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,git,github,vscode,docker,tailwind" alt="My Skills" />
+  </a>
+</p>
+
+<!-- 👁️ Visitor Counter -->
+<p align="center">
+  <img src="https://komarev.com/normal-badge/?username=Biswajitpa&color=7aa2f7&style=flat-square" alt="Profile Views" />
+</p>
+
 
 
 
