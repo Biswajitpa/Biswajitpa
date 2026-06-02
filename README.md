@@ -137,6 +137,12 @@ Results-driven Embedded Systems and Software Developer with strong expertise acr
 </p>
 
 ---
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Biswajitpa&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
 
 ## ⚡ Contribution Activity
 
@@ -144,27 +150,4 @@ Results-driven Embedded Systems and Software Developer with strong expertise acr
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Biswajitpa&theme=tokyo-night" />
 </p>
 
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/Biswajitpa/Biswajitpa/blob/output/github-snake.svg" />
-</p>
-
----
-
-## 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Biswajitpa&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
----
-
-## 🔥 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biswajitpa&layout=compact&theme=tokyonight" />
-</p>
 
