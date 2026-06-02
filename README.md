@@ -123,8 +123,11 @@ Results-driven Embedded Systems and Software Developer with strong expertise acr
 ## 🚀 Advanced GitHub Analytics
 
 <p align="center">
-  <img height="180" src="https://streak-stats.demolab.com/?user=Biswajitpa&theme=tokyonight" />
-  <img height="180" src="https://github-profile-trophy.vercel.app/?username=Biswajitpa&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img src="https://streak-stats.demolab.com/?user=Biswajitpa&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Biswajitpa&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 <p align="center">
@@ -132,9 +135,13 @@ Results-driven Embedded Systems and Software Developer with strong expertise acr
 </p>
 
 <p align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Biswajitpa&theme=tokyonight" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Biswajitpa&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Biswajitpa&theme=tokyonight" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Biswajitpa&theme=tokyonight" />
+</p>
+
 ---
 ## 👀 Profile Views
 
