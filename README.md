@@ -149,4 +149,7 @@ Results-driven Embedded Systems and Software Developer with strong expertise acr
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Biswajitpa&theme=tokyo-night" />
 </p>
 
-
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Biswajitpa/Biswajitpa/output/github-snake.svg" />
+</p>
