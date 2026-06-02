@@ -126,9 +126,10 @@ Results-driven Embedded Systems and Software Developer with strong expertise acr
   <img height="180" src="https://streak-stats.demolab.com/?user=Biswajitpa&theme=tokyonight" />
   <img height="180" src="https://github-profile-trophy.vercel.app/?username=Biswajitpa&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Biswajitpa&show_icons=true&theme=tokyonight" />
-</p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Biswajitpa&theme=tokyonight" />
+</p> iisue
 
 <p align="center">
   <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Biswajitpa&theme=tokyonight" />
