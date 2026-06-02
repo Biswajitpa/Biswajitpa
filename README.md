@@ -119,7 +119,6 @@ Results-driven Embedded Systems and Software Developer with strong expertise acr
 
 
 
-## 🚀 Advanced GitHub Analytics
 
 ## 🚀 Advanced GitHub Analytics
 
@@ -133,10 +132,9 @@ Results-driven Embedded Systems and Software Developer with strong expertise acr
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Biswajitpa&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Biswajitpa&theme=tokyonight" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Biswajitpa&theme=tokyonight" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Biswajitpa&theme=tokyonight" />
 </p>
-
 ---
 ## 👀 Profile Views
 
