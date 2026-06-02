@@ -129,7 +129,7 @@ Results-driven Embedded Systems and Software Developer with strong expertise acr
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Biswajitpa&theme=tokyonight" />
-</p> iisue
+</p> 
 
 <p align="center">
   <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Biswajitpa&theme=tokyonight" />
