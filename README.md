@@ -137,7 +137,7 @@ Results-driven Embedded Systems and Software Developer with strong expertise acr
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Biswajitpa&theme=radical&row=2&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Biswajitpa&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
 </p>
 
 ## 👀 Profile Views
