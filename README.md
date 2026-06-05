@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Biswajit Pattanaik
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C853,100:000000&height=200&section=header&text=Biswajit%20Pattanaik&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Embedded%20Systems%20%7C%20IoT%20Engineer%20%7C%20Full%20Stack%20MERN%20Developer%20%7C%20Backend%20Developer&descAlignY=55&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C853,100:000000&height=200&section=header&text=Biswajit%20Pattanaik&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Embedded%20Systems%20%7C%20IoT%20Engineer%20%7C%20AI%20%26%20ML%20Engineer%20%7C%20Full%20Stack%20MERN%20Developer%20%7C%20Backend%20Developer&descAlignY=55&descAlign=50"/>
 </p>
 
 
@@ -12,6 +12,7 @@
   <img src="https://img.shields.io/badge/MERN-Stack-black?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Realtime-Socket.IO-success?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Cloud-Computing-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI-ML-red?style=for-the-badge"/>
 </p>
 
 
