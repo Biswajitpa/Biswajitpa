@@ -74,10 +74,8 @@ Results-driven Embedded Systems and Software Developer with strong expertise acr
   <a href="https://react.dev" target="_blank"><img src="https://skillicons.dev/icons?i=react" width="40"/></a>
   <a href="https://nextjs.org" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs" width="40"/></a>
   <a href="https://redux.js.org" target="_blank"><img src="https://skillicons.dev/icons?i=redux" width="40"/></a>
-  <a href="https://angularjs.org" target="_blank"><img src="https://skillicons.dev/icons?i=angular" width="40"/></a>
   <a href="https://threejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=threejs" width="40"/></a>
   <a href="https://tailwindcss.com" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" width="40"/></a>
-  <a href="https://sass-lang.com" target="_blank"><img src="https://skillicons.dev/icons?i=sass" width="40"/></a>
   <a href="https://getbootstrap.com" target="_blank"><img src="https://skillicons.dev/icons?i=bootstrap" width="40"/></a>
   <a href="https://mui.com" target="_blank"><img src="https://skillicons.dev/icons?i=materialui" width="40"/></a>
   <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" width="40"/></a>
