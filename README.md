@@ -121,15 +121,16 @@ Results-driven Embedded Systems and Software Developer with strong expertise acr
 
 <p align="center">
   <img height="180" src="https://streak-stats.demolab.com/?user=Biswajitpa&theme=tokyonight" />
+  <img height="180" src="https://github-profile-trophy.vercel.app/?username=Biswajitpa&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
----
-
-### 🛠️ Tech Stack & Metrics
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Biswajitpa?label=Followers&style=for-the-badge&color=7aa2f7&labelColor=1a1b26" />
-  <img src="https://img.shields.io/github/stars/Biswajitpa?label=Total%20Stars&style=for-the-badge&color=bb9af7&labelColor=1a1b26" />
-  <img src="https://img.shields.io/github/repo-count/Biswajitpa?label=Repositories&style=for-the-badge&color=7dcfff&labelColor=1a1b26" />
+  <img src="https://github-profile-summary-cards-seven.vercel.app/api/cards/profile-details?username=Biswajitpa&theme=tokyonight" />
+</p> 
+
+<p align="center">
+  <img height="180" src="https://github-profile-summary-cards-seven.vercel.app/api/cards/repos-per-language?username=Biswajitpa&theme=tokyonight" />
+  <img height="180" src="https://github-profile-summary-cards-seven.vercel.app/api/cards/most-commit-language?username=Biswajitpa&theme=tokyonight" />
 </p>
 
 ## 👀 Profile Views
