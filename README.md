@@ -119,23 +119,21 @@ Results-driven Embedded Systems and Software Developer with strong expertise acr
 ## 🚀 Advanced GitHub Analytics
 
 <p align="center">
-  <img height="180" src="https://streak-stats.demolab.com/?user=Biswajitpa&theme=github-dark" />
-  <img height="180" src="https://github-profile-trophy.vercel.app/?username=Biswajitpa&theme=darkhub&no-frame=true&row=1&column=7" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Biswajitpa&show_icons=true&theme=aura&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Biswajitpa&theme=aura&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Biswajitpa&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Biswajitpa&theme=aura" />
 </p>
 
 <p align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Biswajitpa&theme=github_dark" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Biswajitpa&theme=github_dark" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Biswitpa&theme=aura" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Biswajitpa&theme=aura" />
 </p>
 
-## 👀 Profile Views
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Biswajitpa&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Biswajitpa&theme=algolia&no-frame=true&no-bg=true&margin-w=15&row=1" />
 </p>
 
 
