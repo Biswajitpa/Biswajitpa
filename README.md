@@ -123,9 +123,13 @@ Results-driven Embedded Systems and Software Developer with strong expertise acr
   <img height="180" src="https://streak-stats.demolab.com/?user=Biswajitpa&theme=tokyonight" />
 </p>
 
+---
+
+### 🛠️ Tech Stack & Metrics
 <p align="center">
-  <img height="195" src="https://github-readme-stats.vercel.app/api?username=Biswajitpa&show_icons=true&theme=tokyonight&include_all_commits=true" />
-  <img height="195" src="https://github-readme-stats.vercel.app/api/top-languages?username=Biswajitpa&layout=compact&theme=tokyonight" />
+  <img src="https://img.shields.io/github/followers/Biswajitpa?label=Followers&style=for-the-badge&color=7aa2f7&labelColor=1a1b26" />
+  <img src="https://img.shields.io/github/stars/Biswajitpa?label=Total%20Stars&style=for-the-badge&color=bb9af7&labelColor=1a1b26" />
+  <img src="https://img.shields.io/github/repo-count/Biswajitpa?label=Repositories&style=for-the-badge&color=7dcfff&labelColor=1a1b26" />
 </p>
 
 ## 👀 Profile Views
