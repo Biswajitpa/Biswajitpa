@@ -1,9 +1,6 @@
 # 👋 Hi, I'm Biswajit Pattanaik
 
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF512F,25:DD2476,50:8A2BE2,75:0072FF,100:00C9A7&height=180&section=header&text=Biswajit%20Pattanaik&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/> </p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=DD2476&center=true&vCenter=true&width=600&lines=Embedded+Systems+Engineer;IoT+Engineer;AI%2FML+Engineer;Full+Stack+MERN+Developer;Backend+Developer;DevOps+Engineer" alt="Typing SVG" />
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF512F,25:DD2476,50:8A2BE2,75:0072FF,100:00C9A7&height=200&section=header&text=Biswajit%20Pattanaik&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Embedded%20Systems%20%7C%20IoT%20%7C%20AI%2FML%20%7C%20MERN%20%7C%20Backend%20%7C%20DevOps&descAlignY=55&descAlign=50&descSize=15"/> </p>
   
 </p>
 <p align="center">
