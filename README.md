@@ -126,11 +126,11 @@ Results-driven Embedded Systems and Software Developer with strong expertise acr
 <p align="center">
   <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Biswajitpa&theme=radical" />
 </p>
-<p align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Biswajitpa&theme=radical" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Biswajitpa&theme=radical" />
-</p>
 
+<p align="center">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Biswajitpa&theme=dracula" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Biswajitpa&theme=dracula" />
+</p>
 
 
 ## ⚡ Contribution Activity
