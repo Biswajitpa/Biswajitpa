@@ -115,24 +115,20 @@ Results-driven Embedded Systems and Software Developer with strong expertise acr
 </p>
 
 ## 🚀 Advanced GitHub Analytics
-
+## 🚀 Advanced GitHub Analytics
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF512F,25:DD2476,50:8A2BE2,75:0072FF,100:00C9A7&height=100&section=header&text=Advanced%20GitHub%20Analytics&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=55" />
-</p>
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Biswajitpa&show_icons=true&theme=synthwave" />
-  <img height="180" src="https://streak-stats.demolab.com/?user=Biswajitpa&theme=synthwave" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Biswajitpa&show_icons=true&theme=radical" />
+  <img height="180" src="https://streak-stats.demolab.com/?user=Biswajitpa&theme=radical" />
 </p>
 <p align="center">
   <img height="180" src="https://github-profile-trophy.vercel.app/?username=Biswajitpa&theme=radical&no-frame=true&row=1&column=7" />
 </p>
 <p align="center">
-  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Biswajitpa&theme=synthwave" />
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Biswajitpa&theme=radical" />
 </p>
 <p align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Biswajitpa&theme=synthwave" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Biswajitpa&theme=synthwave" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Biswajitpa&theme=radical" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Biswajitpa&theme=radical" />
 </p>
 
 
