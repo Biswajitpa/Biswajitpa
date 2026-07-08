@@ -113,7 +113,9 @@ Results-driven Embedded Systems and Software Developer with strong expertise acr
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Biswajitpa&show_icons=true&theme=tokyonight" width="48%"/>
 </p>
-##  🚀 Advanced GitHub Analytics
+
+<h2 align="center">🚀 Advanced GitHub Analytics</h2>
+
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=Biswajitpa&show_icons=true&theme=radical" />
   <img height="180" src="https://streak-stats.demolab.com/?user=Biswajitpa&theme=radical" />
