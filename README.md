@@ -118,17 +118,16 @@ Results-driven Embedded Systems and Software Developer with strong expertise acr
 
 
 
-
 ## 🚀 Advanced GitHub Analytics
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Biswajitpa&show_icons=true&theme=github_dark" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Biswajitpa&show_icons=true&theme=radical" />
 </p>
 <p align="center">
-  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Biswajitpa&theme=github_dark" />
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Biswajitpa&theme=radical" />
 </p>
 <p align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Biswajitpa&theme=github_dark" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Biswajitpa&theme=github_dark" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Biswajitpa&theme=radical" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Biswajitpa&theme=radical" />
 </p>
 
 ## ⚡ Contribution Activity
