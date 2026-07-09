@@ -99,13 +99,13 @@ Built an AI-powered vehicle black box system for real-time crash & anomaly detec
 
 ### 📈 Proficiency
 
-| Skill | Level |
-|---|---|
-| C / C++ (DSA) | ████████████████░░ 85% |
-| Embedded Systems (IoT, CAN) | ███████████████░░░ 80% |
-| MERN Stack | ██████████████░░░░ 75% |
-| AI/ML | █████████████░░░░░ 70% |
-| Cloud & DevOps | ████████████░░░░░░ 65% |
+<table align="center">
+<tr><td width="220"><b>C / C++ (DSA)</b></td><td><img src="https://progress-bar.dev/85/?scale=100&width=250&color=00c9a7&suffix=%25"/></td></tr>
+<tr><td><b>Embedded Systems (IoT, CAN)</b></td><td><img src="https://progress-bar.dev/80/?scale=100&width=250&color=0072ff&suffix=%25"/></td></tr>
+<tr><td><b>MERN / Full Stack</b></td><td><img src="https://progress-bar.dev/75/?scale=100&width=250&color=8a2be2&suffix=%25"/></td></tr>
+<tr><td><b>AI / ML</b></td><td><img src="https://progress-bar.dev/70/?scale=100&width=250&color=dd2476&suffix=%25"/></td></tr>
+<tr><td><b>Cloud & DevOps</b></td><td><img src="https://progress-bar.dev/65/?scale=100&width=250&color=ff512f&suffix=%25"/></td></tr>
+</table>
 
 ---
 
@@ -148,13 +148,9 @@ Built an AI-powered vehicle black box system for real-time crash & anomaly detec
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Biswajitpa&theme=tokyo-night" />
 </p>
 
-### 🐍 Contribution Snake
+### 🐍 Contribution Snake *(optional add-on)*
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Biswajitpa/Biswajitpa/output/github-contribution-grid-snake.svg" alt="contribution snake"/>
-</p>
-
-> ℹ️ The snake animation needs a one-time GitHub Actions setup — see the **Setup Notes** section below.
+A snake animation eating your contribution graph is a nice touch, but it needs a one-time setup on your end before the image will render — see **Setup Notes** below for the two-minute config, or skip it entirely.
 
 ---
 
@@ -177,8 +173,10 @@ Built an AI-powered vehicle black box system for real-time crash & anomaly detec
 <summary>⚙️ Setup Notes (for you, not visitors)</summary>
 
 - **Profile views counter**: powered by `komarev.com/ghpvc` — works automatically, no setup needed.
-- **Contribution snake**: requires adding the [`platane/snk`](https://github.com/Platane/snk) GitHub Action to a repo named after your username (`Biswajitpa/Biswajitpa`) so it generates the `output` branch SVG. Until that's set up, that image will show broken/blank — delete the section if you don't want to configure it.
-- **Skill bars**: the proficiency table uses plain text block characters (no external dependency), so it always renders — feel free to adjust the percentages as your skills grow.
+- **Contribution snake**: currently not added to the README, since it needs a one-time setup. To enable it, add the [`platane/snk`](https://github.com/Platane/snk) GitHub Action to a repo named after your username (`Biswajitpa/Biswajitpa`), let it run once to generate the `output` branch SVG, then add:
+  `<img src="https://raw.githubusercontent.com/Biswajitpa/Biswajitpa/output/github-contribution-grid-snake.svg"/>`
+  Adding it before that setup is done just shows a broken image, which is why it's left out for now.
+- **Skill bars**: now generated via `progress-bar.dev`, which renders as real colored bars (not text blocks) on GitHub's dark theme. Adjust the numbers in each URL (`/85/`, `/80/`, etc.) any time your skill levels change.
 - All stat cards (`streak-stats`, `github-readme-activity-graph`, `profile-trophy`, etc.) use your GitHub username `Biswajitpa` — update this everywhere if you ever rename your account.
 
 </details>
