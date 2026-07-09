@@ -111,35 +111,30 @@ Results-driven Embedded Systems and Software Developer with strong expertise acr
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Biswajitpa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biswajitpa&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Biswajitpa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biswajitpa&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=Biswajitpa&theme=tokyonight"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=Biswajitpa&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Biswajitpa&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Biswajitpa&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Biswajitpa&theme=tokyonight"/>
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Biswajitpa&theme=tokyonight"/>
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Biswajitpa&theme=tokyonight" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Biswajitpa&theme=tokyonight" />
 </p>
-
-
-## ⏰ Productive Time
 
 <p align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Biswajitpa&theme=tokyonight"/>
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Biswajitpa&theme=tokyonight&utcOffset=5.5"/>
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Biswajitpa&theme=tokyonight" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Biswajitpa&theme=tokyonight&utcOffset=5.5" />
 </p>
 
-## ⚡ Contribution Activity
+## 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Biswajitpa&theme=tokyo-night" />
 </p>
-
-
