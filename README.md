@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF512F,25:DD2476,50:8A2BE2,75:0072FF,100:00C9A7&height=220&section=header&text=Biswajit%20Pattanaik&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Embedded%20Systems%20%7C%20IoT%20%7C%20AI%2FML%20%7C%20MERN%20%7C%20Backend%20%7C%20DevOps&descAlignY=55&descAlign=50&descSize=15"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF512F,25:DD2476,50:8A2BE2,75:0072FF,100:00C9A7&height=220&section=header&text=Biswajit%20Pattanaik&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Web%20Developer%20%7C%20Embedded%20Systems%20%7C%20IoT%20%7C%20AI%2FML%20%7C%20MERN%20%7C%20DevOps&descAlignY=55&descAlign=50&descSize=15"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1200&color=00F7FF&center=true&vCenter=true&width=900&lines=IEEE+Tech+Spark+2.0+Winner;AI+Vehicle+Black+Box+Developer;Building+Real-Time+IoT+%2B+Cloud+Systems;Open+to+Internships+%26+Full-Time+Roles" />
 
@@ -15,6 +15,7 @@
 <br/>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Full%20Stack-Web%20Developer-ff69b4?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Embedded-Systems-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/IoT-Projects-green?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/DSA-C%2B%2B-orange?style=for-the-badge"/>
@@ -28,14 +29,14 @@
 
 ### 💫 About Me
 
-I'm an embedded systems and software developer with hands-on experience across the full stack — from low-level hardware interfacing and sensor integration to cloud deployment and AI-powered applications. I design and build end-to-end IoT solutions that connect physical devices to scalable, data-driven backends, with a focus on reliability and performance.
+I'm a Full Stack Web Developer and embedded systems engineer with hands-on experience across the entire stack — from low-level hardware interfacing and sensor integration to building and deploying MERN-based web applications and AI-powered systems. I design and build end-to-end IoT solutions that connect physical devices to scalable, data-driven backends, and I develop responsive, full-stack web applications with a focus on reliability and performance.
 
 A solid grounding in Data Structures and Algorithms lets me write optimized, production-ready code across embedded, web, and enterprise systems. I enjoy solving problems systematically and am especially drawn to IoT, AI/ML, and modern engineering practices that turn ideas into real, measurable impact.
 
 ```yaml
 name: Biswajit Pattanaik
-role: [Embedded Systems Developer, IoT Engineer, Backend Developer]
-focus: [Automotive Embedded (CAN/AUTOSAR), IoT + Cloud, AI/ML, Backend APIs]
+role: [Full Stack Web Developer, Embedded Systems Developer, IoT Engineer, Backend Developer]
+focus: [MERN Stack Development, Automotive Embedded (CAN/AUTOSAR), IoT + Cloud, AI/ML, Backend APIs]
 currently_learning: [AUTOSAR, Advanced Cloud Architectures]
 status: "available for internships & full-time roles"
 ```
