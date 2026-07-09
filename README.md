@@ -1,141 +1,120 @@
-# 👋 Hi, I'm Biswajit Pattanaik
-
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF512F,25:DD2476,50:8A2BE2,75:0072FF,100:00C9A7&height=200&section=header&text=Biswajit%20Pattanaik&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Embedded%20Systems%20%7C%20IoT%20%7C%20AI%2FML%20%7C%20MERN%20%7C%20Backend%20%7C%20DevOps&descAlignY=55&descAlign=50&descSize=15"/> </p>
-  
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Embedded-Systems-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/IoT-Projects-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/DSA-C%2B%2B-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MERN-Stack-black?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Realtime-Socket.IO-success?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Cloud-Computing-purple?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AI-ML-red?style=for-the-badge"/>
-</p>
-
+<h1 align="center">Hi there, I'm Biswajit Pattanaik 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1200&color=00F7FF&center=true&vCenter=true&width=900&lines=IEEE+Tech+Spark+2.0+Winner;AI+Vehicle+Black+Box+Developer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF512F,25:DD2476,50:8A2BE2,75:0072FF,100:00C9A7&height=200&section=header&text=Biswajit%20Pattanaik&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Embedded%20Systems%20%7C%20IoT%20%7C%20AI%2FML%20%7C%20MERN%20%7C%20Backend%20%7C%20DevOps&descAlignY=55&descAlign=50&descSize=16"/>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1200&color=00F7FF&center=true&vCenter=true&width=800&lines=Embedded+Systems+%26+IoT+Developer;AI%2FML+Enthusiast;IEEE+Tech+Spark+2.0+Winner+%F0%9F%8F%86;Building+AI+Vehicle+Black+Box+Systems;Open+to+Internships+%26+Full-Time+Roles" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/biswajit-pattanaik-3586b82b3">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:pattanaikbiswajit07@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Biswajitpa">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Biswajitpa&style=for-the-badge&color=8A2BE2" alt="profile views"/>
+</p>
 
 ---
 
-🚀 Embedded Systems Developer | IoT Engineer | Backend Developer  
-💡 Expertise in DSA (C++), AI/ML, Cloud Computing, and Full-Stack Development  
-📡 Building real-time, scalable, and intelligent systems  
-🎯 Open to Internships & Full-Time Opportunities | Available for Immediate Roles
+### 🧭 About Me
+
+I'm a results-driven **Embedded Systems and Software Developer** with expertise spanning the full stack — from low-level hardware interfacing and sensor integration to cloud deployment and AI-powered applications.
+
+- 🔭 Currently building **end-to-end IoT solutions** that bridge physical devices with scalable, data-driven backend systems
+- 🧠 Strong foundation in **Data Structures & Algorithms (C++)**, enabling optimized, production-ready software across embedded, web, and enterprise environments
+- 🚗 Passionate about **automotive embedded systems**, real-time architectures, and applying AI/ML at the edge
+- 🎯 Actively seeking **internship and full-time opportunities** — available for immediate roles
 
 ---
 
-# 💫 About Me
-Results-driven Embedded Systems and Software Developer with strong expertise across the full technology stack, ranging from low-level hardware interfacing and sensor integration to cloud deployment and AI-powered application development. Experienced in designing and implementing end-to-end IoT solutions that connect physical devices with scalable, data-driven backend systems, ensuring reliable and efficient system performance. Possess a strong foundation in Data Structures and Algorithms, enabling the development of optimized, production-ready software across embedded, web, and enterprise environments. Known for a systematic problem-solving approach and a strong passion for leveraging IoT, AI/ML, and modern software engineering practices to build innovative, scalable solutions that automate processes and deliver measurable real-world impact.
+### 🏆 Highlights
+
+| | |
+|---|---|
+| 🥇 **IEEE Tech Spark 2.0 Winner** | Recognized for technical innovation and execution |
+| 🚙 **AI Vehicle Black Box** | Designed a real-time crash/event data recorder combining embedded sensors with AI-based anomaly detection |
+| 📡 **IoT + Cloud Pipelines** | Built ESP32 / Raspberry Pi systems streaming live telemetry to cloud dashboards |
 
 ---
 
-## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/biswajit-pattanaik-3586b82b3) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pattanaikbiswajit07@gmail.com)
+### 🔭 Current Focus
+
+```text
+🚗  Automotive Embedded Systems     → CAN Bus, AUTOSAR
+📡  IoT + Cloud Integration         → ESP32, Raspberry Pi, Firebase
+🤖  AI/ML at the Edge               → TensorFlow, scikit-learn
+💻  Backend Systems                 → Node.js, Express, REST APIs
+```
 
 ---
 
-# 💻 Tech Stack
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
+### 🛠️ Tech Stack
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
-![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=plastic&logo=nodemon&logoColor=%BBDEAD)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
-
-<h3 align="left">Languages, Frameworks & Databases</h3>
+**Languages**
 <p align="left">
-  <a href="https://www.java.com" target="_blank"><img src="https://skillicons.dev/icons?i=java" width="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" width="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" width="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=javascript" width="40"/></a>
-  <a href="https://react.dev" target="_blank"><img src="https://skillicons.dev/icons?i=react" width="40"/></a>
-  <a href="https://nextjs.org" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs" width="40"/></a>
-  <a href="https://redux.js.org" target="_blank"><img src="https://skillicons.dev/icons?i=redux" width="40"/></a>
-  <a href="https://threejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=threejs" width="40"/></a>
-  <a href="https://tailwindcss.com" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" width="40"/></a>
-  <a href="https://getbootstrap.com" target="_blank"><img src="https://skillicons.dev/icons?i=bootstrap" width="40"/></a>
-  <a href="https://mui.com" target="_blank"><img src="https://skillicons.dev/icons?i=materialui" width="40"/></a>
-  <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" width="40"/></a>
-  <a href="https://expressjs.com" target="_blank"><img src="https://skillicons.dev/icons?i=express" width="40"/></a>
-  <a href="https://www.mongodb.com" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" width="40"/></a>
-  <a href="https://www.mysql.com" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" width="40"/></a>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript" />
 </p>
 
-<h3 align="left">Tools, Cloud & DevOps</h3>
+**Frontend**
 <p align="left">
-  <a href="https://git-scm.com" target="_blank"><img src="https://skillicons.dev/icons?i=git" width="40"/></a>
-  <a href="https://www.docker.com" target="_blank"><img src="https://skillicons.dev/icons?i=docker" width="40"/></a>
-  <a href="https://kubernetes.io" target="_blank"><img src="https://skillicons.dev/icons?i=kubernetes" width="40"/></a>
-  <a href="https://aws.amazon.com" target="_blank"><img src="https://skillicons.dev/icons?i=aws" width="40"/></a>
-  <a href="https://cloud.google.com" target="_blank"><img src="https://skillicons.dev/icons?i=gcp" width="40"/></a>
-  <a href="https://www.jenkins.io" target="_blank"><img src="https://skillicons.dev/icons?i=jenkins" width="40"/></a>
-  <a href="https://www.terraform.io" target="_blank"><img src="https://skillicons.dev/icons?i=terraform" width="40"/></a>
-  <a href="https://figma.com" target="_blank"><img src="https://skillicons.dev/icons?i=figma" width="40"/></a>
-  <a href="https://www.postman.com" target="_blank"><img src="https://skillicons.dev/icons?i=postman" width="40"/></a>
-  <a href="https://www.npmjs.com" target="_blank"><img src="https://skillicons.dev/icons?i=npm" width="40"/></a>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,redux,tailwind,bootstrap,materialui,threejs" />
+</p>
+
+**Backend & Databases**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
+</p>
+
+**AI / ML / Data**
+<p align="left">
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat-square&logo=anaconda&logoColor=white"/>
+</p>
+
+**Cloud, DevOps & Tools**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,jenkins,terraform,git,figma,postman,npm" />
 </p>
 
 ---
 
-## 🔭 Current Focus
-- 🚗 Automotive Embedded Systems (CAN, AUTOSAR)
-- 📡 IoT + Cloud Integration (ESP32 + Raspberry Pi)
-- 🤖 AI/ML in Embedded Systems
-- 💻 Backend Systems (Node.js + APIs)
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Biswajitpa&show_icons=true&theme=radical&hide_border=true" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=Biswajitpa&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Biswajitpa&theme=github_dark" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Biswajitpa&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Biswajitpa&theme=tokyo-night&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Biswajitpa&theme=radical&no-frame=true&row=1&column=7" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Biswajitpa&show_icons=true&theme=tokyonight" width="48%"/>
+  <i>💬 Let's connect and build something impactful together!</i>
 </p>
 
-## 🚀 Advanced GitHub Analytics
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Biswajitpa&show_icons=true&theme=radical" />
-  <img height="180" src="https://streak-stats.demolab.com/?user=Biswajitpa&theme=radical" />
-</p>
-<p align="center">
-  <img height="180" src="https://github-profile-trophy.vercel.app/?username=Biswajitpa&theme=radical&no-frame=true&row=1&column=7" />
-</p>
-<p align="center">
-  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Biswajitpa&theme=radical" />
-</p>
-
-<p align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Biswajitpa&theme=github_dark" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Biswajitpa&theme=github_dark" />
-</p>
-
-
-## ⚡ Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Biswajitpa&theme=tokyo-night" />
-</p>
-
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,25:0072FF,50:8A2BE2,75:DD2476,100:FF512F&height=100&section=footer"/>
