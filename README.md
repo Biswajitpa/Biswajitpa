@@ -100,11 +100,11 @@ Built an AI-powered vehicle black box system for real-time crash & anomaly detec
 ### 📈 Proficiency
 
 <table align="center">
-<tr><td width="220"><b>C / C++ (DSA)</b></td><td><img src="https://progress-bar.dev/85/?scale=100&width=250&color=00c9a7&suffix=%25"/></td></tr>
-<tr><td><b>Embedded Systems (IoT, CAN)</b></td><td><img src="https://progress-bar.dev/80/?scale=100&width=250&color=0072ff&suffix=%25"/></td></tr>
-<tr><td><b>MERN / Full Stack</b></td><td><img src="https://progress-bar.dev/75/?scale=100&width=250&color=8a2be2&suffix=%25"/></td></tr>
-<tr><td><b>AI / ML</b></td><td><img src="https://progress-bar.dev/70/?scale=100&width=250&color=dd2476&suffix=%25"/></td></tr>
-<tr><td><b>Cloud & DevOps</b></td><td><img src="https://progress-bar.dev/65/?scale=100&width=250&color=ff512f&suffix=%25"/></td></tr>
+<tr><td width="220"><b>C / C++ (DSA)</b></td><td><img src="https://img.shields.io/badge/85%25-00c9a7?style=for-the-badge"/></td></tr>
+<tr><td><b>Embedded Systems (IoT, CAN)</b></td><td><img src="https://img.shields.io/badge/80%25-0072ff?style=for-the-badge"/></td></tr>
+<tr><td><b>MERN / Full Stack</b></td><td><img src="https://img.shields.io/badge/75%25-8a2be2?style=for-the-badge"/></td></tr>
+<tr><td><b>AI / ML</b></td><td><img src="https://img.shields.io/badge/70%25-dd2476?style=for-the-badge"/></td></tr>
+<tr><td><b>Cloud & DevOps</b></td><td><img src="https://img.shields.io/badge/65%25-ff512f?style=for-the-badge"/></td></tr>
 </table>
 
 ---
@@ -176,7 +176,7 @@ A snake animation eating your contribution graph is a nice touch, but it needs a
 - **Contribution snake**: currently not added to the README, since it needs a one-time setup. To enable it, add the [`platane/snk`](https://github.com/Platane/snk) GitHub Action to a repo named after your username (`Biswajitpa/Biswajitpa`), let it run once to generate the `output` branch SVG, then add:
   `<img src="https://raw.githubusercontent.com/Biswajitpa/Biswajitpa/output/github-contribution-grid-snake.svg"/>`
   Adding it before that setup is done just shows a broken image, which is why it's left out for now.
-- **Skill bars**: now generated via `progress-bar.dev`, which renders as real colored bars (not text blocks) on GitHub's dark theme. Adjust the numbers in each URL (`/85/`, `/80/`, etc.) any time your skill levels change.
+- **Skill bars**: switched to `shields.io` badges (the same service already used for every other badge in this README, so it's guaranteed to render). These are colored percentage chips rather than a filling bar — to change a number, just edit the `85%25` part of that badge's URL.
 - All stat cards (`streak-stats`, `github-readme-activity-graph`, `profile-trophy`, etc.) use your GitHub username `Biswajitpa` — update this everywhere if you ever rename your account.
 
 </details>
