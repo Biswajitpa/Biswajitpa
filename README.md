@@ -128,11 +128,6 @@ Results-driven Embedded Systems and Software Developer with strong expertise acr
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Biswajitpa&theme=tokyonight"/>
 </p>
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Biswajitpa&theme=tokyo-night"/>
-</p>
 
 ## ⏰ Productive Time
 
