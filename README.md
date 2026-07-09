@@ -60,13 +60,9 @@ I build things that sit at the intersection of **hardware and software** — fro
 
 ## 📈 Proficiency
 
-| Skill | Level |
-|---|---|
-| C / C++ (DSA) | ![85%](https://img.shields.io/badge/-85%25-00c9a7?style=flat-square) |
-| Embedded Systems (IoT, CAN) | ![80%](https://img.shields.io/badge/-80%25-0072ff?style=flat-square) |
-| MERN / Full Stack | ![75%](https://img.shields.io/badge/-75%25-8a2be2?style=flat-square) |
-| AI / ML | ![70%](https://img.shields.io/badge/-70%25-dd2476?style=flat-square) |
-| Cloud & DevOps | ![65%](https://img.shields.io/badge/-65%25-ff512f?style=flat-square) |
+<p align="center">
+  <img src="./assets/proficiency-chart.svg" alt="Proficiency chart: C/C++ 85%, Embedded Systems 80%, MERN 75%, AI/ML 70%, Cloud & DevOps 65%" width="700"/>
+</p>
 
 ---
 
@@ -126,7 +122,7 @@ I build things that sit at the intersection of **hardware and software** — fro
   - Turned proficiency and highlights into tables — easier to scan than stacked badges.
   - Removed the profile-view counter and lower-value stat cards (productive-time, repos-per-language) to reduce clutter; kept trophy, streak, stats, and activity graph since those are the ones recruiters actually glance at.
   - Left the contribution snake out — same reason as before, it needs the one-time GitHub Action setup (`platane/snk`) on a repo named after your username before the image will render.
-- **Skill bars**: still shields.io badges — reliable and no external dependency, but only percentage chips, not filling bars. Edit the number after `-` in each badge URL to update.
+- **Proficiency chart**: now a real SVG bar chart (`assets/proficiency-chart.svg`) instead of badges/table — put that file in an `assets/` folder in your repo root so the relative path resolves. To change a number, edit two things in the SVG for that row: the `width` on the `<rect>` (baseline x=100, 100% ≈ 541px wide, so width = 100 + percent × 4.41) and the label text.
 - All stat cards use your GitHub username `Biswajitpa` — update everywhere if you rename your account.
 
 </details>
