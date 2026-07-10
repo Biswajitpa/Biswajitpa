@@ -1,8 +1,9 @@
 # 👋 Hi, I'm Biswajit Pattanaik
 
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF512F,25:DD2476,50:8A2BE2,75:0072FF,100:00C9A7&height=200&section=header&text=Biswajit%20Pattanaik&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Embedded%20Systems%20%7C%20IoT%20%7C%20AI%2FML%20%7C%20MERN%20%7C%20Backend%20%7C%20DevOps&descAlignY=55&descAlign=50&descSize=15"/> </p>
-  
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF512F,25:DD2476,50:8A2BE2,75:0072FF,100:00C9A7&height=200&section=header&text=Biswajit%20Pattanaik&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Embedded%20Systems%20%7C%20IoT%20%7C%20AI%2FML%20%7C%20MERN%20%7C%20Backend%20%7C%20DevOps&descAlignY=55&descAlign=50&descSize=15"/>
 </p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Embedded-Systems-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/IoT-Projects-green?style=for-the-badge"/>
@@ -13,33 +14,34 @@
   <img src="https://img.shields.io/badge/AI-ML-red?style=for-the-badge"/>
 </p>
 
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1200&color=00F7FF&center=true&vCenter=true&width=900&lines=IEEE+Tech+Spark+2.0+Winner;AI+Vehicle+Black+Box+Developer" />
 </p>
 
-
 ---
 
-🚀 Embedded Systems Developer | IoT Engineer | Backend Developer  
-💡 Expertise in DSA (C++), AI/ML, Cloud Computing, and Full-Stack Development  
-📡 Building real-time, scalable, and intelligent systems  
+🚀 Embedded Systems Developer | IoT Engineer | Backend Developer
+💡 Expertise in DSA (C++), AI/ML, Cloud Computing, and Full-Stack Development
+📡 Building real-time, scalable, and intelligent systems
 🎯 Open to Internships & Full-Time Opportunities | Available for Immediate Roles
 
 ---
 
-# 💫 About Me
+## 💫 About Me
+
 Results-driven Embedded Systems and Software Developer with strong expertise across the full technology stack, ranging from low-level hardware interfacing and sensor integration to cloud deployment and AI-powered application development. Experienced in designing and implementing end-to-end IoT solutions that connect physical devices with scalable, data-driven backend systems, ensuring reliable and efficient system performance. Possess a strong foundation in Data Structures and Algorithms, enabling the development of optimized, production-ready software across embedded, web, and enterprise environments. Known for a systematic problem-solving approach and a strong passion for leveraging IoT, AI/ML, and modern software engineering practices to build innovative, scalable solutions that automate processes and deliver measurable real-world impact.
 
 ---
 
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/biswajit-pattanaik-3586b82b3) 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/biswajit-pattanaik-3586b82b3)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pattanaikbiswajit07@gmail.com)
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
+
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white)
@@ -65,7 +67,8 @@ Results-driven Embedded Systems and Software Developer with strong expertise acr
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
 
-<h3 align="left">Languages, Frameworks & Databases</h3>
+### Languages, Frameworks & Databases
+
 <p align="left">
   <a href="https://www.java.com" target="_blank"><img src="https://skillicons.dev/icons?i=java" width="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" width="40"/></a>
@@ -84,7 +87,8 @@ Results-driven Embedded Systems and Software Developer with strong expertise acr
   <a href="https://www.mysql.com" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" width="40"/></a>
 </p>
 
-<h3 align="left">Tools, Cloud & DevOps</h3>
+### Tools, Cloud & DevOps
+
 <p align="left">
   <a href="https://git-scm.com" target="_blank"><img src="https://skillicons.dev/icons?i=git" width="40"/></a>
   <a href="https://www.docker.com" target="_blank"><img src="https://skillicons.dev/icons?i=docker" width="40"/></a>
@@ -101,6 +105,7 @@ Results-driven Embedded Systems and Software Developer with strong expertise acr
 ---
 
 ## 🔭 Current Focus
+
 - 🚗 Automotive Embedded Systems (CAN, AUTOSAR)
 - 📡 IoT + Cloud Integration (ESP32 + Raspberry Pi)
 - 🤖 AI/ML in Embedded Systems
