@@ -114,6 +114,17 @@ Known for a systematic problem-solving approach and a strong passion for leverag
     </td>
   </tr>
   <tr>
+    <td colspan="2" valign="top">
+      <h3>🛒 CartSphere — Multi-Vendor E-Commerce SaaS</h3>
+      <p>An enterprise-grade, multi-tenant marketplace platform where independent vendors run isolated storefronts under one roof — GST-verified vendor onboarding, admin-gated product approvals, order-scoped real-time chat, and live revenue analytics across Admin, Vendor, and Customer dashboards.</p>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MongoDB%20Atlas-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+      <img src="https://img.shields.io/badge/NextAuth.js-000000?style=flat-square&logo=auth0&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Stripe%20%2F%20Razorpay-635BFF?style=flat-square&logo=stripe&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>🚗 AI Vehicle Black Box</h3>
       <p>An embedded IoT system that continuously logs vehicle telemetry and sensor data for post-incident analysis — combining low-level hardware interfacing with real-time cloud data pipelines.</p>
