@@ -27,6 +27,16 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Biswajitpa&label=Profile%20Views&color=8A2BE2&style=flat-square" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/Biswajitpa?label=Followers&style=flat-square&color=0072FF" alt="Followers"/>
+  <img src="https://img.shields.io/badge/Available-Immediately-00C9A7?style=flat-square"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+</p>
+
 ---
 
 ### 🚀 At a Glance
@@ -56,6 +66,33 @@ Known for a systematic problem-solving approach and a strong passion for leverag
 | 📡 IoT + Cloud Integration | ESP32 + Raspberry Pi |
 | 🤖 AI/ML in Embedded Systems | Applied ML on constrained devices |
 | 💻 Backend Systems | Node.js + APIs |
+
+---
+
+## 🏆 Featured Work
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚗 AI Vehicle Black Box</h3>
+      <p>An embedded IoT system that continuously logs vehicle telemetry and sensor data for post-incident analysis — combining low-level hardware interfacing with real-time cloud data pipelines.</p>
+      <img src="https://img.shields.io/badge/Embedded-C%2FC%2B%2B-blue?style=flat-square"/>
+      <img src="https://img.shields.io/badge/IoT-ESP32-green?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Cloud-Realtime%20Sync-purple?style=flat-square"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚆 Bharatiya Rail — Track Fault Detection AI</h3>
+      <p>An AI-powered Streamlit app for railway field engineers: EfficientNetB0 defect classification, Grad-CAM explainability, severity triage, and automated PDF inspection reports.</p>
+      <img src="https://img.shields.io/badge/TensorFlow-EfficientNetB0-orange?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Streamlit-App-red?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Explainability-Grad--CAM-black?style=flat-square"/>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🏅%20IEEE%20Tech%20Spark%202.0-Winner-FFD700?style=for-the-badge"/>
+</p>
 
 ---
 
@@ -100,6 +137,10 @@ Known for a systematic problem-solving approach and a strong passion for leverag
 ## 📊 GitHub Analytics
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1500&color=8A2BE2&center=true&vCenter=true&width=700&lines=Let%27s+let+the+numbers+do+the+talking..." />
+</p>
+
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Biswajitpa&theme=tokyonight&no-frame=true&no-bg=true"/>
 </p>
 
@@ -127,8 +168,22 @@ Known for a systematic problem-solving approach and a strong passion for leverag
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Biswajitpa&theme=tokyo-night" />
 </p>
 
+**Contribution Snake** 🐍
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Biswajitpa/Biswajitpa/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+<blockquote align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</blockquote>
+
 ---
 
 <p align="center">
-  <sub>Thanks for stopping by — feel free to reach out via <a href="mailto:pattanaikbiswajit07@gmail.com">email</a> or <a href="https://www.linkedin.com/in/biswajit-pattanaik-3586b82b3">LinkedIn</a>.</sub>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+</p>
+
+<p align="center">
+  <sub>Thanks for stopping by — feel free to reach out via <a href="mailto:pattanaikbiswajit07@gmail.com">email</a> or <a href="https://www.linkedin.com/in/biswajit-pattanaik-3586b82b3">LinkedIn</a>. If this profile inspired you, drop a ⭐ on a repo below!</sub>
 </p>
