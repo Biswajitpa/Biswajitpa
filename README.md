@@ -65,6 +65,9 @@ Known for a systematic problem-solving approach and a strong passion for leverag
 | 🚗 Automotive Embedded Systems | CAN, AUTOSAR |
 | 📡 IoT + Cloud Integration | ESP32 + Raspberry Pi |
 | 🤖 AI/ML in Embedded Systems | Applied ML on constrained devices |
+| 🧠 AI & ML | Model development, deployment, and MLOps |
+| 🏗 System Designing | Scalable, fault-tolerant architecture patterns |
+| ⚙️ DevOps | CI/CD pipelines, containerization, cloud infra |
 | 💻 Backend Systems | Node.js + APIs |
 
 ---
@@ -180,12 +183,7 @@ Known for a systematic problem-solving approach and a strong passion for leverag
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Biswajitpa&theme=tokyonight&no-frame=true&no-bg=true"/>
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Biswajitpa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biswajitpa&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Coding.gif" width="400"/>
 </p>
 
 <p align="center">
@@ -240,3 +238,5 @@ Known for a systematic problem-solving approach and a strong passion for leverag
 <p align="center">
   <sub>Thanks for stopping by — feel free to reach out via <a href="mailto:pattanaikbiswajit07@gmail.com">email</a> or <a href="https://www.linkedin.com/in/biswajit-pattanaik-3586b82b3">LinkedIn</a>. If this profile inspired you, drop a ⭐ on a repo below!</sub>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,25:0072FF,50:8A2BE2,75:DD2476,100:FF512F&height=120&section=footer"/>
