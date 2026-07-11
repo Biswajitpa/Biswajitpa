@@ -101,6 +101,19 @@ Known for a systematic problem-solving approach and a strong passion for leverag
 
 <table>
   <tr>
+    <td colspan="2" valign="top">
+      <h3>🚕 RYDEX — AI-Powered Mobility Platform</h3>
+      <p>An enterprise-grade, full-stack ride-hailing platform architected like a real production system — graph-based shortest-path driver matching, dual-checkpoint OTP ride integrity, live GPS tracking, Video KYC vendor onboarding, and a defense-in-depth security model across Rider, Driver, and Admin domains.</p>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JWT%20%2B%20OAuth2.0-black?style=flat-square"/>
+      <img src="https://img.shields.io/badge/WebSockets-Realtime-blueviolet?style=flat-square&logo=socket.io&logoColor=white"/>
+      <img src="https://img.shields.io/badge/ZegoCloud-KYC-orange?style=flat-square"/>
+      <br/>
+      <a href="https://rydex-smart-al-powered-ride-hailing-rho.vercel.app/admin/dashboard"><img src="https://img.shields.io/badge/🔗%20Live%20Demo-Admin%20Dashboard-00C9A7?style=flat-square"/></a>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>🚗 AI Vehicle Black Box</h3>
       <p>An embedded IoT system that continuously logs vehicle telemetry and sensor data for post-incident analysis — combining low-level hardware interfacing with real-time cloud data pipelines.</p>
