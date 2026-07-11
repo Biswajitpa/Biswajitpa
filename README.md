@@ -99,48 +99,65 @@ Known for a systematic problem-solving approach and a strong passion for leverag
 
 ## 🏆 Featured Work
 
-<table>
+<br/>
+
+<table width="100%">
   <tr>
-    <td colspan="2" valign="top">
-      <h3>🚕 RYDEX — AI-Powered Mobility Platform</h3>
-      <p>An enterprise-grade, full-stack ride-hailing platform architected like a real production system — graph-based shortest-path driver matching, dual-checkpoint OTP ride integrity, live GPS tracking, Video KYC vendor onboarding, and a defense-in-depth security model across Rider, Driver, and Admin domains.</p>
+    <td width="50%" align="center" valign="top">
+      <h3>🚕&nbsp; RYDEX</h3>
+      <sub><i>AI-Powered Mobility Platform · Flagship</i></sub>
+      <br/><br/>
+      <p>Enterprise-grade, full-stack ride-hailing platform<br/>architected like a real production system —<br/>graph-based shortest-path driver matching,<br/>dual-checkpoint OTP ride integrity, live GPS tracking,<br/>Video KYC vendor onboarding, and defense-in-depth<br/>security across Rider, Driver, and Admin domains.</p>
+      <br/>
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+      <br/>
       <img src="https://img.shields.io/badge/JWT%20%2B%20OAuth2.0-black?style=flat-square"/>
       <img src="https://img.shields.io/badge/WebSockets-Realtime-blueviolet?style=flat-square&logo=socket.io&logoColor=white"/>
-      <img src="https://img.shields.io/badge/ZegoCloud-KYC-orange?style=flat-square"/>
       <br/>
-      <a href="https://rydex-smart-al-powered-ride-hailing-rho.vercel.app/admin/dashboard"><img src="https://img.shields.io/badge/🔗%20Live%20Demo-Admin%20Dashboard-00C9A7?style=flat-square"/></a>
+      <img src="https://img.shields.io/badge/ZegoCloud-KYC-orange?style=flat-square"/>
+      <br/><br/>
+      <a href="https://rydex-smart-al-powered-ride-hailing-rho.vercel.app/admin/dashboard"><img src="https://img.shields.io/badge/🔗%20Live%20Demo-00C9A7?style=for-the-badge"/></a>
     </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3>🛒 CartSphere — Multi-Vendor E-Commerce SaaS</h3>
-      <p>An enterprise-grade, multi-tenant marketplace platform where independent vendors run isolated storefronts under one roof — GST-verified vendor onboarding, admin-gated product approvals, order-scoped real-time chat, and live revenue analytics across Admin, Vendor, and Customer dashboards.</p>
+    <td width="50%" align="center" valign="top">
+      <h3>🛒&nbsp; CartSphere</h3>
+      <sub><i>Multi-Vendor E-Commerce SaaS · Flagship</i></sub>
+      <br/><br/>
+      <p>Enterprise-grade, multi-tenant marketplace platform<br/>where independent vendors run isolated storefronts<br/>under one roof — GST-verified vendor onboarding,<br/>admin-gated product approvals, order-scoped<br/>real-time chat, and live revenue analytics across<br/>Admin, Vendor, and Customer dashboards.</p>
+      <br/>
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+      <br/>
       <img src="https://img.shields.io/badge/MongoDB%20Atlas-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
       <img src="https://img.shields.io/badge/NextAuth.js-000000?style=flat-square&logo=auth0&logoColor=white"/>
+      <br/>
       <img src="https://img.shields.io/badge/Stripe%20%2F%20Razorpay-635BFF?style=flat-square&logo=stripe&logoColor=white"/>
     </td>
   </tr>
+</table>
+
+<br/>
+
+<table width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <h3>🚗 AI Vehicle Black Box</h3>
-      <p>An embedded IoT system that continuously logs vehicle telemetry and sensor data for post-incident analysis — combining low-level hardware interfacing with real-time cloud data pipelines.</p>
+    <td width="50%" align="center" valign="top">
+      <h3>🚗&nbsp; AI Vehicle Black Box</h3>
+      <p>An embedded IoT system that continuously logs vehicle<br/>telemetry and sensor data for post-incident analysis —<br/>combining low-level hardware interfacing with real-time<br/>cloud data pipelines.</p>
       <img src="https://img.shields.io/badge/Embedded-C%2FC%2B%2B-blue?style=flat-square"/>
       <img src="https://img.shields.io/badge/IoT-ESP32-green?style=flat-square"/>
       <img src="https://img.shields.io/badge/Cloud-Realtime%20Sync-purple?style=flat-square"/>
     </td>
-    <td width="50%" valign="top">
-      <h3>🚆 Bharatiya Rail — Track Fault Detection AI</h3>
-      <p>An AI-powered Streamlit app for railway field engineers: EfficientNetB0 defect classification, Grad-CAM explainability, severity triage, and automated PDF inspection reports.</p>
+    <td width="50%" align="center" valign="top">
+      <h3>🚆&nbsp; Bharatiya Rail — Track Fault AI</h3>
+      <p>An AI-powered Streamlit app for railway field engineers:<br/>EfficientNetB0 defect classification, Grad-CAM<br/>explainability, severity triage, and automated<br/>PDF inspection reports.</p>
       <img src="https://img.shields.io/badge/TensorFlow-EfficientNetB0-orange?style=flat-square"/>
       <img src="https://img.shields.io/badge/Streamlit-App-red?style=flat-square"/>
       <img src="https://img.shields.io/badge/Explainability-Grad--CAM-black?style=flat-square"/>
     </td>
   </tr>
 </table>
+
+<br/>
 
 <p align="center">
   <img src="https://img.shields.io/badge/🏅%20IEEE%20Tech%20Spark%202.0-Winner-FFD700?style=for-the-badge"/>
