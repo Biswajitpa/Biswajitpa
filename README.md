@@ -264,6 +264,7 @@ Known for a systematic problem-solving approach and a strong passion for leverag
 <p align="center">
   <a href="https://github.com/sponsors/Biswajitpa"><img src="https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white"/></a>
   <a href="https://www.buymeacoffee.com/"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black"/></a>
+  <a href="https://www.patreon.com/"><img src="https://img.shields.io/badge/Patreon-Support-F96854?style=for-the-badge&logo=patreon&logoColor=white"/></a>
 </p>
 
 ---
