@@ -69,6 +69,31 @@ Known for a systematic problem-solving approach and a strong passion for leverag
 
 ---
 
+## 📚 Currently Learning
+
+<p align="left">
+  <img src="https://img.shields.io/badge/AUTOSAR-Automotive%20Stack-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LLM%20Systems-Applied%20AI-red?style=flat-square"/>
+  <img src="https://img.shields.io/badge/System%20Design-Scalable%20Backends-purple?style=flat-square"/>
+</p>
+
+## 💬 Ask Me About
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Embedded%20Systems-lightgrey?style=flat-square"/>
+  <img src="https://img.shields.io/badge/IoT%20Architecture-lightgrey?style=flat-square"/>
+  <img src="https://img.shields.io/badge/MERN%20Stack-lightgrey?style=flat-square"/>
+  <img src="https://img.shields.io/badge/AI%2FML%20Deployment-lightgrey?style=flat-square"/>
+  <img src="https://img.shields.io/badge/DSA%20%2F%20C%2B%2B-lightgrey?style=flat-square"/>
+</p>
+
+## ⚡ Fun Fact
+
+> Went from wiring sensors on a breadboard to shipping full AI-powered web apps — still can't decide if I love hardware or software more, so I do both.
+
+---
+
 ## 🏆 Featured Work
 
 <table>
@@ -93,6 +118,20 @@ Known for a systematic problem-solving approach and a strong passion for leverag
 <p align="center">
   <img src="https://img.shields.io/badge/🏅%20IEEE%20Tech%20Spark%202.0-Winner-FFD700?style=for-the-badge"/>
 </p>
+
+---
+
+## 📜 Certifications & Achievements
+
+<p align="left">
+  <img src="https://img.shields.io/badge/🏅-IEEE%20Tech%20Spark%202.0%20Winner-FFD700?style=flat-square"/>
+  <img src="https://img.shields.io/badge/🚗-AI%20Vehicle%20Black%20Box%20Developer-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/🚆-Bharatiya%20Rail%20AI%20Project-orange?style=flat-square"/>
+</p>
+
+<!-- Add more certifications here as badges, e.g.:
+<img src="https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+-->
 
 ---
 
@@ -145,6 +184,11 @@ Known for a systematic problem-solving approach and a strong passion for leverag
 </p>
 
 <p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Biswajitpa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biswajitpa&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
   <img height="170" src="https://streak-stats.demolab.com?user=Biswajitpa&theme=tokyonight&hide_border=true" />
 </p>
 
@@ -177,6 +221,15 @@ Known for a systematic problem-solving approach and a strong passion for leverag
 <blockquote align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </blockquote>
+
+---
+
+## ☕ Support
+
+<p align="center">
+  <a href="https://github.com/sponsors/Biswajitpa"><img src="https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white"/></a>
+  <a href="https://www.buymeacoffee.com/"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black"/></a>
+</p>
 
 ---
 
