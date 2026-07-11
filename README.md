@@ -91,6 +91,40 @@ Known for a systematic problem-solving approach and a strong passion for leverag
   <img src="https://img.shields.io/badge/DSA%20%2F%20C%2B%2B-lightgrey?style=flat-square"/>
 </p>
 
+## 🎯 Skills Proficiency
+
+<p align="left">
+  <b>Embedded Systems & IoT</b><br/>
+  <img src="https://progress-bar.xyz/90?title=&width=250&color=0072FF"/><br/>
+  <b>Backend Development (Node.js)</b><br/>
+  <img src="https://progress-bar.xyz/85?title=&width=250&color=00C9A7"/><br/>
+  <b>Full-Stack (MERN / Next.js)</b><br/>
+  <img src="https://progress-bar.xyz/85?title=&width=250&color=8A2BE2"/><br/>
+  <b>AI / ML</b><br/>
+  <img src="https://progress-bar.xyz/75?title=&width=250&color=DD2476"/><br/>
+  <b>DSA (C++)</b><br/>
+  <img src="https://progress-bar.xyz/80?title=&width=250&color=FF512F"/><br/>
+  <b>Cloud & DevOps</b><br/>
+  <img src="https://progress-bar.xyz/70?title=&width=250&color=326CE5"/>
+</p>
+
+---
+
+## 🎓 Education & Milestones
+
+```
+2024 — Present   🏫  Pursuing degree, deepening focus on Embedded Systems & AI
+2025            🏆  IEEE Tech Spark 2.0 — Winner
+2025            🚗  Built AI Vehicle Black Box (embedded telemetry system)
+2026            🚕  Shipped RYDEX — full-stack AI mobility platform
+2026            🛒  Shipped CartSphere — multi-vendor e-commerce SaaS
+2026            🚆  Built Bharatiya Rail Track Fault Detection AI
+```
+
+<!-- Update the dates/entries above to match your actual timeline -->
+
+---
+
 ## ⚡ Fun Fact
 
 > Went from wiring sensors on a breadboard to shipping full AI-powered web apps — still can't decide if I love hardware or software more, so I do both.
