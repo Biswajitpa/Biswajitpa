@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Biswajit Pattanaik</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF512F,25:DD2476,50:8A2BE2,75:0072FF,100:00C9A7&height=200&section=header&text=Biswajit%20Pattanaik&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Embedded%20Systems%20%7C%20IoT%20%7C%20AI%2FML%20%7C%20MERN%20%7C%20Backend%20%7C%20DevOps&descAlignY=55&descAlign=50&descSize=15"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/light.svg">
+    <img alt="Biswajit Pattanaik animated hero banner" src="assets/dark.svg" width="100%">
+  </picture>
 </p>
 
 <p align="center">
