@@ -1,18 +1,11 @@
 <h1 align="center">Hi 👋, I'm Biswajit Pattanaik</h1>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/light.svg">
-    <img alt="Biswajit Pattanaik animated hero banner" src="assets/dark.svg" width="100%">
-  </picture>
-</p>
-
-<p align="center">
   <a href="https://github.com/Biswajitpa">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Biswajitpa/Biswajitpa/main/dark_mode.svg">
-      <img alt="Biswajitpa" src="https://raw.githubusercontent.com/Biswajitpa/Biswajitpa/main/light_mode.svg">
+      <source media="(prefers-color-scheme: dark)" srcset="assets/dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/light.svg">
+      <img alt="Biswajit Pattanaik animated hero banner" src="assets/dark.svg" width="100%">
     </picture>
   </a>
 </p>
