@@ -3,9 +3,9 @@
 <p align="center">
   <a href="https://github.com/Biswajitpa">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="assets/light.svg">
-      <img alt="Biswajit Pattanaik animated hero banner" src="assets/dark.svg" width="100%">
+      <source media="(prefers-color-scheme: dark)" srcset="assets/dark.svg?v=2">
+      <source media="(prefers-color-scheme: light)" srcset="assets/light.svg?v=2">
+      <img alt="Biswajit Pattanaik animated hero banner" src="assets/dark.svg?v=2" width="100%">
     </picture>
   </a>
 </p>
