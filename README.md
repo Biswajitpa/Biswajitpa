@@ -9,6 +9,15 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/Biswajitpa">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Biswajitpa/Biswajitpa/main/dark_mode.svg">
+      <img alt="Biswajitpa" src="https://raw.githubusercontent.com/Biswajitpa/Biswajitpa/main/light_mode.svg">
+    </picture>
+  </a>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Embedded-Systems-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/IoT-Projects-green?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/DSA-C%2B%2B-orange?style=for-the-badge"/>
