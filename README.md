@@ -254,59 +254,17 @@ Known for a systematic problem-solving approach and a strong passion for leverag
 ---
 ## 📊 GitHub Analytics
 
+<!-- Top Languages Donut Charts -->
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1500&color=8A2BE2&center=true&vCenter=true&width=700&lines=Let%27s+let+the+numbers+do+the+talking..." 
-    alt="GitHub Analytics"
+  <img
+    height="180"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Biswajitpa&theme=tokyonight"
+    alt="Top Languages by Repo"
   />
-</p>
-
-<p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Coding.gif" 
-    width="400"
-    alt="Coding"
-  />
-</p>
-
-<!-- 🔥 GitHub Streak -->
-<p align="center">
-  <img 
-    width="65%"
-    src="https://streak-stats.demolab.com?user=Biswajitpa&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
-
-<!-- 💻 Top Languages -->
-<h3 align="center">💻 Top Languages</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
-<!-- 📈 Contribution Graph -->
-
-### 📈 Contribution Graph
-
-<p align="center">
-  <img 
-    width="95%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Biswajitpa&theme=tokyo-night&hide_border=true&area=true"
-    alt="GitHub Contribution Graph"
-  />
-</p>
-
-<!-- 👀 Profile Views -->
-<p align="center">
-  <img 
-    src="https://komarev.com/ghpvc/?username=Biswajitpa&label=PROFILE%20VIEWS&color=8A2BE2&style=flat-square"
-    alt="Profile Views"
+  <img
+    height="180"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Biswajitpa&theme=tokyonight"
+    alt="Top Languages by Commit"
   />
 </p>
 
