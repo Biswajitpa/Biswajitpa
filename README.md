@@ -252,34 +252,58 @@ Known for a systematic problem-solving approach and a strong passion for leverag
 </p>
 
 ---
-## 📊 GitHub Analytics
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Biswajitpa&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img
+    src="https://streak-stats.demolab.com?user=Biswajitpa&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Biswajitpa&theme=tokyonight" alt="GitHub Profile Details" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Biswajitpa&theme=tokyonight"
+    alt="GitHub Profile Details"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Biswajitpa&theme=tokyonight" alt="Top Languages by Repo" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Biswajitpa&theme=tokyonight" alt="Top Languages by Commit" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Biswajitpa&theme=tokyonight"
+    alt="Top Languages by Repo"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Biswajitpa&theme=tokyonight"
+    alt="Top Languages by Commit"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Biswajitpa&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Biswajitpa&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Biswajitpa&theme=tokyonight"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Biswajitpa&theme=tokyonight&utcOffset=5.5"
+    alt="Productive Time"
+  />
 </p>
 
-### 📈 Contribution Graph
+<h3 align="center">📈 Contribution Graph</h3>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Biswajitpa&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Biswajitpa&theme=tokyo-night&hide_border=true&area=true"
+    alt="GitHub Contribution Graph"
+  />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Biswajitpa&label=PROFILE%20VIEWS&color=8A2BE2&style=flat-square" alt="Profile Views" />
+  <img
+    src="https://komarev.com/ghpvc/?username=Biswajitpa&label=PROFILE%20VIEWS&color=8A2BE2&style=flat-square"
+    alt="Profile Views"
+  />
 </p>
 
 **Contribution Snake** 🐍
