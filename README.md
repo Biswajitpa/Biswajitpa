@@ -282,15 +282,10 @@ Known for a systematic problem-solving approach and a strong passion for leverag
 <h3 align="center">💻 Top Languages</h3>
 
 <p align="center">
-  <img 
+  <img
     height="180"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Biswajitpa&theme=tokyonight"
+    src="YOUR-DEPLOYMENT-URL/api/top-langs?username=Biswajitpa&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
     alt="Top Languages"
-  />
-  <img 
-    height="180"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Biswajitpa&theme=tokyonight"
-    alt="Most Commit Language"
   />
 </p>
 
