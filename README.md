@@ -252,8 +252,9 @@ Known for a systematic problem-solving approach and a strong passion for leverag
 </p>
 
 ---
-<h2 align="center">📊 GitHub Analytics</h2>
+## 📊 GitHub Analytics
 
+<!-- GitHub Streak -->
 <p align="center">
   <img
     src="https://streak-stats.demolab.com?user=Biswajitpa&theme=tokyonight&hide_border=true"
@@ -261,44 +262,51 @@ Known for a systematic problem-solving approach and a strong passion for leverag
   />
 </p>
 
+<!-- Profile Details -->
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Biswajitpa&theme=tokyonight"
+    src="./profile-summary-card-output/tokyonight/0-profile-details.svg"
     alt="GitHub Profile Details"
+    width="95%"
   />
 </p>
 
+<!-- Languages -->
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Biswajitpa&theme=tokyonight"
+    src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg"
     alt="Top Languages by Repo"
   />
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Biswajitpa&theme=tokyonight"
+    src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg"
     alt="Top Languages by Commit"
   />
 </p>
 
+<!-- Stats -->
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Biswajitpa&theme=tokyonight"
+    src="./profile-summary-card-output/tokyonight/3-stats.svg"
     alt="GitHub Stats"
   />
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Biswajitpa&theme=tokyonight&utcOffset=5.5"
+    src="./profile-summary-card-output/tokyonight/4-productive-time.svg"
     alt="Productive Time"
   />
 </p>
 
+<!-- Contribution Graph -->
 <h3 align="center">📈 Contribution Graph</h3>
 
 <p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=Biswajitpa&theme=tokyo-night&hide_border=true&area=true"
     alt="GitHub Contribution Graph"
+    width="95%"
   />
 </p>
 
+<!-- Profile Views -->
 <p align="center">
   <img
     src="https://komarev.com/ghpvc/?username=Biswajitpa&label=PROFILE%20VIEWS&color=8A2BE2&style=flat-square"
