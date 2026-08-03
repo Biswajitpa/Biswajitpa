@@ -266,17 +266,8 @@ Known for a systematic problem-solving approach and a strong passion for leverag
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Biswajitpa&theme=tokyonight" alt="Profile Details" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Biswajitpa&theme=tokyonight" alt="Repos per Language" />
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Biswajitpa&theme=tokyonight" alt="Most Commit Language" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Biswajitpa&theme=tokyonight" alt="GitHub Stats" />
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Biswajitpa&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Biswajitpa&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biswajitpa&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ### 📈 Contribution Graph
