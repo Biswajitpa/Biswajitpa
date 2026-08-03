@@ -254,17 +254,90 @@ Known for a systematic problem-solving approach and a strong passion for leverag
 ---
 ## 📊 GitHub Analytics
 
-<!-- Top Languages Donut Charts -->
+<!-- Animated Heading -->
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1500&color=8A2BE2&center=true&vCenter=true&width=700&lines=Let%27s+let+the+numbers+do+the+talking..."
+    alt="Let's let the numbers do the talking"
+  />
+</p>
+
+<br/>
+
+<!-- GitHub Streak -->
+<p align="center">
+  <img
+    height="170"
+    src="https://streak-stats.demolab.com?user=Biswajitpa&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
+
+<br/>
+
+<!-- Full Profile Details + Contribution Timeline -->
+<p align="center">
+  <img
+    width="85%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Biswajitpa&theme=tokyonight"
+    alt="GitHub Profile Details"
+  />
+</p>
+
+<br/>
+
+<!-- Top Languages by Repo + Top Languages by Commit -->
 <p align="center">
   <img
     height="180"
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Biswajitpa&theme=tokyonight"
     alt="Top Languages by Repo"
   />
+  &nbsp;
   <img
     height="180"
     src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Biswajitpa&theme=tokyonight"
     alt="Top Languages by Commit"
+  />
+</p>
+
+<br/>
+
+<!-- GitHub Stats + Productive Time / Commits -->
+<p align="center">
+  <img
+    height="180"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Biswajitpa&theme=tokyonight"
+    alt="GitHub Stats"
+  />
+  &nbsp;
+  <img
+    height="180"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Biswajitpa&theme=tokyonight&utcOffset=5.5"
+    alt="Commits by Time"
+  />
+</p>
+
+<br/>
+
+<!-- Contribution Graph -->
+<h3 align="center">📈 Contribution Graph</h3>
+
+<p align="center">
+  <img
+    width="95%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Biswajitpa&theme=tokyo-night&hide_border=true&area=true"
+    alt="GitHub Contribution Graph"
+  />
+</p>
+
+<br/>
+
+<!-- Profile Views -->
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=Biswajitpa&label=PROFILE%20VIEWS&color=8A2BE2&style=flat-square"
+    alt="Profile Views"
   />
 </p>
 
