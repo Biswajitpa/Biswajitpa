@@ -257,7 +257,7 @@ Known for a systematic problem-solving approach and a strong passion for leverag
 <p align="center">
   <img 
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1500&color=8A2BE2&center=true&vCenter=true&width=700&lines=Let%27s+let+the+numbers+do+the+talking..." 
-    alt="Typing SVG"
+    alt="GitHub Analytics"
   />
 </p>
 
@@ -265,29 +265,36 @@ Known for a systematic problem-solving approach and a strong passion for leverag
   <img 
     src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Coding.gif" 
     width="400"
-    alt="Coding Animation"
+    alt="Coding"
   />
 </p>
 
-<!-- GitHub Streak -->
+<!-- 🔥 GitHub Streak -->
 <p align="center">
   <img 
     width="65%"
-    src="https://streak-stats.demolab.com?user=Biswajitpa&theme=tokyonight&hide_border=true&background=0D1117" 
+    src="https://streak-stats.demolab.com?user=Biswajitpa&theme=tokyonight&hide_border=true"
     alt="GitHub Streak"
   />
 </p>
 
-<!-- Top Languages -->
+<!-- 💻 Top Languages -->
+<h3 align="center">💻 Top Languages</h3>
+
 <p align="center">
-  <img
-    width="45%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biswajitpa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8"
+  <img 
+    height="180"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Biswajitpa&theme=tokyonight"
     alt="Top Languages"
+  />
+  <img 
+    height="180"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Biswajitpa&theme=tokyonight"
+    alt="Most Commit Language"
   />
 </p>
 
-<!-- Contribution Graph -->
+<!-- 📈 Contribution Graph -->
 
 ### 📈 Contribution Graph
 
@@ -299,7 +306,7 @@ Known for a systematic problem-solving approach and a strong passion for leverag
   />
 </p>
 
-<!-- Profile Views -->
+<!-- 👀 Profile Views -->
 <p align="center">
   <img 
     src="https://komarev.com/ghpvc/?username=Biswajitpa&label=PROFILE%20VIEWS&color=8A2BE2&style=flat-square"
