@@ -255,28 +255,42 @@ Known for a systematic problem-solving approach and a strong passion for leverag
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=7AA2F7&center=true&vCenter=true&width=600&lines=Let%27s+let+the+numbers+do+the+talking...;Code+%E2%80%A2+Build+%E2%80%A2+Learn+%E2%80%A2+Repeat" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=7AA2F7&center=true&vCenter=true&width=650&lines=Let%27s+let+the+numbers+do+the+talking...;Code+%E2%80%A2+Build+%E2%80%A2+Learn+%E2%80%A2+Repeat"
+    alt="Typing SVG"
+  />
 </p>
 
-<!-- Streak -->
+<br/>
+
+<!-- GitHub Streak -->
 <p align="center">
-  <img width="65%" src="https://streak-stats.demolab.com?user=Biswajitpa&theme=tokyonight&hide_border=true&background=0D1117" />
+  <img
+    width="65%"
+    src="https://streak-stats.demolab.com?user=Biswajitpa&theme=tokyonight&hide_border=true&background=0D1117"
+    alt="GitHub Streak"
+  />
 </p>
 
-<!-- Stats + Languages -->
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Biswajitpa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&rank_icon=github" />
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biswajitpa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" />
-</p>
+<br/>
 
 <!-- Contribution Graph -->
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Biswajitpa&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true" />
+  <img
+    width="95%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Biswajitpa&theme=tokyo-night&hide_border=true&area=true"
+    alt="GitHub Contribution Graph"
+  />
 </p>
+
+<br/>
 
 <!-- Profile Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Biswajitpa&label=PROFILE+VIEWS&color=7AA2F7&style=flat-square" />
+  <img
+    src="https://komarev.com/ghpvc/?username=Biswajitpa&label=PROFILE%20VIEWS&color=7AA2F7&style=flat-square"
+    alt="Profile Views"
+  />
 </p>
 
 **Contribution Snake** 🐍
