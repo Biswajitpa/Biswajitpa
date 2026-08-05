@@ -295,14 +295,17 @@ Known for a systematic problem-solving approach and a strong passion for leverag
   />
 </p>
 
-<!-- Contribution Graph -->
-<h3 align="center">📈 Contribution Graph</h3>
+<!-- ============================= -->
+<!--      CONTRIBUTION GRAPH       -->
+<!-- ============================= -->
+
+<h3 align="center">📈 GitHub Contribution Graph</h3>
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Biswajitpa&theme=tokyo-night&hide_border=true&area=true"
-    alt="GitHub Contribution Graph"
-    width="95%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Biswajitpa&theme=tokyo-night&bg_color=0D1117&hide_border=true&area=true"
+    alt="Biswajit GitHub Activity Graph"
+    width="100%"
   />
 </p>
 
