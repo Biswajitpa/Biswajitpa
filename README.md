@@ -298,7 +298,6 @@ Known for a systematic problem-solving approach and a strong passion for leverag
 <!-- ============================= -->
 <!--      CONTRIBUTION GRAPH       -->
 <!-- ============================= -->
-
 <h3 align="center">📈 GitHub Contribution Graph</h3>
 <p align="center">
   <img
@@ -307,7 +306,6 @@ Known for a systematic problem-solving approach and a strong passion for leverag
     width="100%"
   />
 </p>
-
 <!-- Profile Views -->
 <p align="center">
   <img
