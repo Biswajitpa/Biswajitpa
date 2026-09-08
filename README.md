@@ -302,8 +302,8 @@ Known for a systematic problem-solving approach and a strong passion for leverag
 <h3 align="center">📈 GitHub Contribution Graph</h3>
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Biswajitpa&theme=tokyo-night&bg_color=0D1117&hide_border=true&area=true&t=1"
-    alt="Biswajit GitHub Activity Graph"
+    src="https://streak-stats.demolab.com/?user=Biswajitpa&theme=tokyo-night&hide_border=true"
+    alt="Biswajit GitHub Streak Stats"
     width="100%"
   />
 </p>
